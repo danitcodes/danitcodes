@@ -9,6 +9,8 @@
   </p>
 </div>
 <div>
+ 
  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/?username=dani-t-codes&show_icons=true&theme=algolia&hide_border=true" width="49%"/>
  <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani-t-codes&show_icons=true&theme=algolia&layout=compact&hide_border=true&hide=smalltalk" width="49%"/>
+ 
 </div>
