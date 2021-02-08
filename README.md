@@ -1,18 +1,10 @@
-### 
-
-**dani-t-codes/dani-t-codes** 
-
-Work in progress! Come back soon 👽
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... ⚡ React ⚡ 
-- 💬 Ask me about ...
-- 📫 How to reach me: <a href =https://www.linkedin.com/in/danielle-thompson74/>here!</a>
+- 💬 Ask me about ... craft cocktails! 🍹 
+- 📫 How to reach me: <a href =https://www.linkedin.com/in/danielle-thompson74/>LinkedIn</a>
 - 😄 Pronouns: ** she/her **
-- ⚡ Fun fact: ...
 
  <div>  
-  <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Howdy 👋 🤓 </h2>
+  <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hey, how are ya! 🤓 </h2>
   <p>
   </p>
 </div>
