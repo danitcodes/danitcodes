@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-**dani-t-codes/dani-t-codes** [![Danielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani-t-codes)](https://github.com/dani-t-codes/github-readme-stats)
+**dani-t-codes/dani-t-codes** 
+
+[![Danielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani-t-codes)](https://github.com/dani-t-codes/github-readme-stats)
+
 Work in progress! Come back soon 👽
 
 - 🔭 I’m currently working on ...
