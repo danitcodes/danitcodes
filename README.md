@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **dani-t-codes/dani-t-codes** [![Danielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani-t-codes)](https://github.com/dani-t-codes/github-readme-stats)
 Work in progress! Come back soon 👽
 
@@ -12,4 +11,3 @@ Work in progress! Come back soon 👽
 - 📫 How to reach me: ...
 - 😄 Pronouns: ** she/her **
 - ⚡ Fun fact: ...
--->
