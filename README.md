@@ -9,7 +9,7 @@
   </p>
 </div>
 
-<div text-align="center">
+<div align="center">
  
  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/?username=dani-t-codes&show_icons=true&theme=algolia&hide_border=true" width="49%"/>
  <br/>
