@@ -6,12 +6,21 @@
 
 I'm Danielle, and I am currently at the tail end of a 6-month, full-time certificate program in Web & Mobile Development at Epicodus Coding School in Portland, OR.
 
+📃 About Me:
 - 😄 Pronouns: ** she/her **
 - 🌱 I’m currently learning ... ⚡ React, Redux, & Firebase ⚡ 
 - 👣 Next steps for me ... an internship as a software developer! 🦾
 - 💬 Ask me about ... craft cocktails! 🍹 
 
--📫 Find me: 
+🤩 Yes, that:
+- Documentation
+- Checklists
+- All the tea
+- Database design
+- Design systems
+- Thorough testing
+
+📫 Find me: 
 - <a href =https://www.linkedin.com/in/danielle-thompson74/>LinkedIn</a>
 - <a href=https://twitter.com/danitcodes?s=09>Twitter</a>
 - <a href=https://open.spotify.com/user/1264447945/>Spotify</a>
