@@ -13,8 +13,9 @@ I'm Danielle, and I am currently at the tail end of a 6-month, full-time certifi
 
 -📫 Find me: 
 - <a href =https://www.linkedin.com/in/danielle-thompson74/>LinkedIn</a>
+- <a href=https://twitter.com/danitcodes?s=09>Twitter</>
 - <a href=https://open.spotify.com/user/1264447945/>Spotify</a>
-- Streaming live on Twitch weekly at 7pm ish (PST) on Wednesdays at <a href=https://www.twitch.tv/thejonanshow/>The Jonan Show</a>, an informal Q&A aimed at supporting coding school students and recent grads.
+- On Twitch weekly at 7pm ish (PST) on Wednesdays <a href=https://www.twitch.tv/thejonanshow/>The Jonan Show</a>, an informal Q&A aimed at supporting coding school students and recent grads.
 
 
 <div align="center">
