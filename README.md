@@ -8,7 +8,7 @@ I'm Danielle, and I am currently at the tail end of a 6-month, full-time certifi
 
 📃 About Me:
 - 😄 Pronouns: ** she/her **
-- 🌱 I’m currently learning ... ⚡ React, Redux, & Firebase ⚡ 
+- 🌱 I’m currently learning ... ⚡ React, Next.js ⚡ 
 - 👣 Next steps for me ... an internship as a software developer! 🦾
 - 💬 Ask me about ... craft cocktails! 🍹 
 
