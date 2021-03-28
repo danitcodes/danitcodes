@@ -4,12 +4,12 @@
   </p>
 </div>
 
-I'm Danielle, and I am currently at the tail end of a 6-month, full-time certificate program in Web & Mobile Development at Epicodus Coding School in Portland, OR.
+I'm Danielle, and I am a Software Development Intern at the NSBE Pro-PDX and a recent graduate of a 6-month, full-time certificate program in Web & Mobile Development at Epicodus Coding School in Portland, OR. 
 
 📃 About Me:
-- 😄 Pronouns: ** she/her **
+- Pronouns: ** she/her, they/them **
 - 🌱 I’m currently learning ... ⚡ React, Next.js ⚡ 
-- 👣 Next steps for me ... an internship as a software developer! 🦾
+- 👣 Next steps for me ... a software developer internship with the National Society of Black Engineers! 🦾
 - 💬 Ask me about ... craft cocktails! 🍹 
 
 🤩 Yes, that:
