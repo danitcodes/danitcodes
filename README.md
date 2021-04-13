@@ -6,13 +6,22 @@
 
 I'm Danielle, and I am a Software Development Intern at the [NSBE Pro-PDX](https://www.nsbepropdx.org/) and recent graduate of a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Coding School in Portland, OR. 
 
-📃 About Me:
+<h3> 📃 About Me: </h3>
+
 - Pronouns: ** she/her, they/them **
 - 🌱 I’m currently learning ... ⚡ React, Next.js ⚡ 
-- 👣 Next steps for me ... a software developer internship with the National Society of Black Engineers! 🦾
+- 👣 Next steps for me ... securing a full-time software developer position! 🦾
 - 💬 Ask me about ... craft cocktails! 🍹 
 
-🤩 Yes, that:
+<h3> 📚 Currently Reading: </h3>
+
+- Broad Band: The Untold Story of the Womenn Who Made the Internet, by [Claire L. Evans](https://clairelevans.com/)
+- Mexican Gothic by [Silvia Moreno-Garcia](https://silviamoreno-garcia.com/)
+- Where the Dead Pause and the Japanese Say Goodbye by [Marie Matsuki Mockett](http://www.mariemockett.com/books/where-the-dead-pause-the-japanese-say-goodbye/)
+- 
+
+<h3> 🤩 Yes, that: </h3>
+
 - Documentation
 - Checklists
 - All the tea
@@ -20,7 +29,8 @@ I'm Danielle, and I am a Software Development Intern at the [NSBE Pro-PDX](https
 - Design systems
 - Thorough testing
 
-📫 Find me: 
+<h3> 📫 Find me: </h3>
+
 - <a href=https://www.linkedin.com/in/danielle-thompson74/>LinkedIn</a>
 - <a href=https://twitter.com/danitcodes/>Twitter</a>
 - <a href=https://open.spotify.com/user/1264447945/>Spotify</a>
