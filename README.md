@@ -21,7 +21,7 @@ I'm Danielle, and I am a Software Development Intern at the [NSBE Pro-PDX](https
 
 <h3> 📚 Currently Reading </h3>
 
-- Broad Band: The Untold Story of the Womenn Who Made the Internet, by [Claire L. Evans](https://clairelevans.com/)
+- Broad Band: The Untold Story of the Women Who Made the Internet, by [Claire L. Evans](https://clairelevans.com/)
 - Mexican Gothic by [Silvia Moreno-Garcia](https://silviamoreno-garcia.com/)
 - Where the Dead Pause and the Japanese Say Goodbye by [Marie Matsuki Mockett](http://www.mariemockett.com/books/where-the-dead-pause-the-japanese-say-goodbye/)
 
