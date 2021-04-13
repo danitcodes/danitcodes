@@ -6,21 +6,25 @@
 
 I'm Danielle, and I am a Software Development Intern at the [NSBE Pro-PDX](https://www.nsbepropdx.org/) and recent graduate of a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Coding School in Portland, OR. 
 
-<h3> 📃 About Me: </h3>
+<h3> 📃 About Me </h3>
 
 - Pronouns: ** she/her, they/them **
 - 🌱 I’m currently learning ... ⚡ React, Next.js ⚡ 
 - 👣 Next steps for me ... securing a full-time software developer position! 🦾
 - 💬 Ask me about ... craft cocktails! 🍹 
 
-<h3> 📚 Currently Reading: </h3>
+<h3> 🚧 Current & Recent Projects </h3>
+
+- Redesign and additions to the [NSBE Pro-PDX](https://www.nsbepropdx.org/) site.
+- Soon to be redesigning website for local Portland band, Strange & the Familiars
+
+<h3> 📚 Currently Reading </h3>
 
 - Broad Band: The Untold Story of the Womenn Who Made the Internet, by [Claire L. Evans](https://clairelevans.com/)
 - Mexican Gothic by [Silvia Moreno-Garcia](https://silviamoreno-garcia.com/)
 - Where the Dead Pause and the Japanese Say Goodbye by [Marie Matsuki Mockett](http://www.mariemockett.com/books/where-the-dead-pause-the-japanese-say-goodbye/)
-- 
 
-<h3> 🤩 Yes, that: </h3>
+<h3> 🤩 Yes, that </h3>
 
 - Documentation
 - Checklists
@@ -29,7 +33,7 @@ I'm Danielle, and I am a Software Development Intern at the [NSBE Pro-PDX](https
 - Design systems
 - Thorough testing
 
-<h3> 📫 Find me: </h3>
+<h3> 📫 Find me </h3>
 
 - <a href=https://www.linkedin.com/in/danielle-thompson74/>LinkedIn</a>
 - <a href=https://twitter.com/danitcodes/>Twitter</a>
