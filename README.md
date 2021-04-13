@@ -4,7 +4,7 @@
   </p>
 </div>
 
-I'm Danielle, and I am a Software Development Intern at the [NSBE Pro-PDX](https://www.nsbepropdx.org/) and recent graduate of a 6-month, full-time certificate program in Web & Mobile Development at Epicodus Coding School in Portland, OR. 
+I'm Danielle, and I am a Software Development Intern at the [NSBE Pro-PDX](https://www.nsbepropdx.org/) and recent graduate of a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Coding School in Portland, OR. 
 
 📃 About Me:
 - Pronouns: ** she/her, they/them **
