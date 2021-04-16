@@ -44,7 +44,7 @@ I'm Danielle, and I am a Software Development Intern at the [NSBE Pro-PDX](https
 
 <div align="center">
  
- https://www.codewars.com/users/danitcodes/badges/small
+ <img url="https://www.codewars.com/users/danitcodes/badges/small" alt="code wars stats" />
  
  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/?username=danitcodes&show_icons=true&theme=algolia&hide_border=true" width="49%"/>
  <br/>
