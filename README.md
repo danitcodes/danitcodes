@@ -1,5 +1,5 @@
  <div>  
-  <h2>Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+ <h2>Welcome!</h2> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2> -->
   <p>
   </p>
 </div>
@@ -43,6 +43,8 @@ I'm Danielle, and I am a Software Development Intern at the [NSBE Pro-PDX](https
 
 
 <div align="center">
+ 
+ https://www.codewars.com/users/danitcodes/badges/small
  
  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/?username=danitcodes&show_icons=true&theme=algolia&hide_border=true" width="49%"/>
  <br/>
