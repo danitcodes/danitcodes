@@ -41,10 +41,9 @@ I'm Danielle, and I am a Software Development Intern at the [NSBE Pro-PDX](https
 - <a href=https://open.spotify.com/user/1264447945/>Spotify</a>
 - On <a href=https://www.twitch.tv/danitcodes/>Twitch</a> weekly at 7pm ish (PST) on Wednesdays <a href=https://www.twitch.tv/thejonanshow/>The Jonan Show</a>, an informal Q&A aimed at supporting coding school students and recent grads working to get into the tech industry.
 
-
-<div align="center">
+<img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />
  
- <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />
+<div align="center">
  
  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/?username=danitcodes&show_icons=true&theme=algolia&hide_border=true" width="49%"/>
  <br/>
