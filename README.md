@@ -25,6 +25,13 @@ I'm Danielle, and I am a Software Development Intern at the [NSBE Pro-PDX](https
 - Mexican Gothic by [Silvia Moreno-Garcia](https://silviamoreno-garcia.com/)
 - Where the Dead Pause and the Japanese Say Goodbye by [Marie Matsuki Mockett](http://www.mariemockett.com/books/where-the-dead-pause-the-japanese-say-goodbye/)
 
+<h3> Podcasts on Repeat </h3>
+
+- [Code Switch](https://www.npr.org/podcasts/510312/codeswitch) from NPR --> race & culture 
+- [Ladybug Podcast](https://www.ladybug.dev/episodes) --> ⚡ software developer gold ⚡ 
+- [My Favorite Murder](https://myfavoritemurder.com/episodes) --> 🕵 comedy meets true crime 🕵
+- [Murder Squad](http://themurdersquad.com/) --> 🕵️ cold case investigator & investigative journalist team up to solve true crime 🕵️
+
 <h3> 🤩 Yes, that </h3>
 
 - Documentation
