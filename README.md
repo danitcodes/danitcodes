@@ -5,18 +5,20 @@
   <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />
   <br/>
 
-  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/?username=danitcodes&show_icons=true&icon_color=000080&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" />
-  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danitcodes&show_icons=true&layout=compact&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" />
 
-  <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danitcodes&show_icons=true&layout=compact&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" />
+  <br />
+  <br />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=danitcodes&show_icons=true&icon_color=000080&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" />
 
 </div>
 
 I'm Danielle, and I am a Software Developer at GiftRibbn. I recently completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/) and am recent graduate of a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Coding School in Portland, OR.
 
-## My Work
+## 📊 My Work
 
-### Overview
+### 📙 Overview
 
 - Pronouns: ** she/her, they/them **
 - 🌱 I’m currently learning ... ⚡ React, Redux, Next.js ⚡
