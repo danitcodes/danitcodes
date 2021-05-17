@@ -8,7 +8,7 @@
   <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/?username=danitcodes&show_icons=true&theme=algolia&border_color=white" width="49%"/>
   <br/>
 
-  <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danitcodes&show_icons=true&theme=algolia&layout=compact&border_color=white&hide=smalltalk" width="49%"/>
+  <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danitcodes&show_icons=true&bg_color=45deg,#BF5A62,#A6537A,#904E95&layout=compact&border_color=white&hide=smalltalk" width="49%"/>
 
 </div>
 
