@@ -5,10 +5,11 @@
   <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />
   <br/>
 
-  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/?username=danitcodes&show_icons=true&theme=algolia&border_color=white" width="49%"/>
+  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/?username=danitcodes&show_icons=true&icon_color=000080&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" width="49%"/>
   <br/>
 
-  <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danitcodes&show_icons=true&bg_color=-45DEG#BF5A62#A6537A#904E95&layout=compact&border_color=white&hide=smalltalk" width="49%"/>
+  <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danitcodes&show_icons=true&layout=compact&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" width="49%"/>
+
 
 </div>
 
