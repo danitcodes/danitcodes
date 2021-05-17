@@ -16,7 +16,7 @@ I'm Danielle, and I am a Software Development Intern at the [NSBE Pro-PDX](https
 <h3> 🚧 Current & Recent Projects </h3>
 
 - Redesign and additions to the [NSBE Pro-PDX](https://www.nsbepropdx.org/) site.
-- Web development for [GiftRibbn.io](giftribbn.io).
+- Web development for [GiftRibbn.io](ribbn.io).
 - Soon to be redesigning website for local Portland band, Strange & the Familiars.
 
 <h3> 📚 Currently Reading </h3>
