@@ -68,12 +68,12 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 - The Tangled Web: A Guide to Securing Modern Web Applications by [Michal Zalewski](https://www.oreilly.com/library/view/the-tangled-web/9781593273880/)
 - Mexican Gothic by [Silvia Moreno-Garcia](https://silviamoreno-garcia.com/)
 
-### Recently Read in 2021
+### 📚 Recently Read in 2021
 
 - Broad Band: The Untold Story of the Women Who Made the Internet, by [Claire L. Evans](https://clairelevans.com/)
 - Where the Dead Pause and the Japanese Say Goodbye by [Marie Matsuki Mockett](http://www.mariemockett.com/books/where-the-dead-pause-the-japanese-say-goodbye/)
 
-### Podcasts on Repeat
+### 👂 Podcasts on Repeat
 
 - [Ladybug Podcast](https://www.ladybug.dev/episodes) --> ⚡ software developer gold ⚡
 - [Greater Than Code](https://www.greaterthancode.com/) --> "the human side of technology"
