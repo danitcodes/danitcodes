@@ -43,11 +43,11 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 
 ### 🚧 Current & Recent Projects
 
-- My own passion project, [Modern Potions](https://capstone-roan.vercel.app/), a craft cocktail beverage service based out of Portland.
+- My passion project and Epicodus capstone, [Modern Potions](https://capstone-roan.vercel.app/), a craft cocktail beverage service based out of Portland.
 
 <img src="assets/ModernPotions_SplashPage.png" alt="Splash page of the Modern Potions website" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/danitcodes/-capstone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danitcodes&repo=-capstone)](https://github.com/danitcodes/-capstone)
 
 - Redesign of and feature additions to the [NSBE Pro-PDX](https://www.nsbepropdx.org/) site.
 
