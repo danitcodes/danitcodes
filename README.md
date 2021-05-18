@@ -19,7 +19,7 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 |  _Coding Stats_ 	|   Site	|   Rank 	|   Points 	|
 |:-:	|:-:	|:-:	|:-:	|
 |  1 	|  [CodeWars](https://www.codewars.com/users/danitcodes)  |  <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />	|
-|  2 	|   [Edabit](https://edabit.com/user/NPPFh5vCtYrQREYaC)	  |  Level 3 	|  145XP 	|
+|  2 	|   [Edabit](https://edabit.com/user/NPPFh5vCtYrQREYaC)	  |  Level 3 	|  155XP 	|
 
 <br />
 
