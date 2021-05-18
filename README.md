@@ -72,9 +72,10 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 ### Podcasts on Repeat
 
 - [Ladybug Podcast](https://www.ladybug.dev/episodes) --> ⚡ software developer gold ⚡
+- [Greater Than Code](https://www.greaterthancode.com/) --> "the human side of technology"
+- [Code Switch](https://www.npr.org/podcasts/510312/codeswitch) from NPR --> _not_ technical; talks on race & culture
 - [My Favorite Murder](https://myfavoritemurder.com/episodes) --> 🕵 comedy meets true crime 🕵
 - [Murder Squad](http://themurdersquad.com/) --> 🕵️ cold case investigator & investigative journalist team up to solve true crime 🕵️
-- [Code Switch](https://www.npr.org/podcasts/510312/codeswitch) from NPR --> race & culture
 
 ### 🤩 Yes, that
 
