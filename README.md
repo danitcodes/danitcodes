@@ -1,36 +1,60 @@
 <div align="center">
 
-# Welcome!
+# Welcome! I'm Danielle.
 
-  <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />
-  <br/>
+Currently, I am seeking a full-stack, full-time Software Developer role. In the meantime, I am doing some independent contract work in web development, and software development at [GiftRibbn](ribbn.io). Recently, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/) and am recent graduate of a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Coding School in Portland, OR.
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danitcodes&show_icons=true&layout=compact&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danitcodes&show_icons=true&layout=compact&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" />
 
-  <br />
-  <br />
+<br />
+<br />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=danitcodes&show_icons=true&icon_color=000080&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=danitcodes&show_icons=true&icon_color=000080&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" />
+
+<br />
+<br />
+
+|  _Coding Stats_ 	|   Site	|   Rank 	|   Points 	|
+|:-:	|:-:	|:-:	|:-:	|
+|  1 	|  [CodeWars](https://www.codewars.com/users/danitcodes)  |  <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />	|
+|  2 	|   [Edabit](https://edabit.com/user/NPPFh5vCtYrQREYaC)	  |  Level 3 	|  145XP 	|
+
+<!-- **Incoming Stats** <br />
+[LeetCode Stats](https://leetcode.com/danitcodes/) <br />
+[Hacker Rank](https://www.hackerrank.com/danithompson74) <br />
+[Exercism](https://www.hackerrank.com/danitcodes?hr_r=1) <br />
+<br />
+<br /> -->
 
 </div>
 
-I'm Danielle, and I am a Software Developer at GiftRibbn. I recently completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/) and am recent graduate of a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Coding School in Portland, OR.
-
-## 📊 My Work
+## 📊 Work
 
 ### 📙 Overview
 
-- Pronouns: ** she/her, they/them **
+- Pronouns: **she/her, they/them**
 - 🌱 I’m currently learning ... ⚡ React, Redux, Next.js ⚡
 - 👣 Next steps for me ... securing a full-time software developer position! 🦾
 - 💬 Ask me about ... craft cocktails! 🍹
 
 ### 🚧 Current & Recent Projects
 
-- My own passion project, [Modern Potions](), a craft cocktail beverage service based out of Portland.
-- Redesign and additions to the [NSBE Pro-PDX](https://www.nsbepropdx.org/) site.
-- Web development for [GiftRibbn.io](ribbn.io).
-- Soon to be redesigning website for local Portland band, Strange & the Familiars.
+- My own passion project, [Modern Potions](https://capstone-roan.vercel.app/), a craft cocktail beverage service based out of Portland.
+
+<img src="assets/ModernPotions_SplashPage.png" alt="Splash page of the Modern Potions website" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/danitcodes/-capstone)
+
+- Redesign of and feature additions to the [NSBE Pro-PDX](https://www.nsbepropdx.org/) site.
+
+<img src="assets/NSBEHome.png" alt="Splash page of the NSBE Pro-PDX website"/>
+
+- Front-end development for [GiftRibbn.io](ribbn.io).
+- _Coming soon_ Website redesign/feature add-ons for the following local Portland businesses:
+  - Portland band, Strange & the Familiars
+  - FLi Social
+  - Grandmere Supper Club
+  - Professional portfolios & content creator sites for PDX STEM professionals.
 
 ## 📃 About Me
 
@@ -63,7 +87,13 @@ I'm Danielle, and I am a Software Developer at GiftRibbn. I recently completed a
 
 ### 📫 Find me
 
-- <a href=https://www.linkedin.com/in/danielle-thompson74 />LinkedIn</a>
-- <a href=https://twitter.com/danitcodes />Twitter</a>
-- <a href=https://open.spotify.com/user/1264447945 />Spotify</a>
-- On <a href=https://www.twitch.tv/danitcodes />Twitch</a> weekly at 7pm ish (PST) on Wednesdays <a href=https://www.twitch.tv/thejonanshow />The Jonan Show</a>, on 'Code School Q&A' aimed at supporting coding school students and recent grads working to get into the tech industry.
+- <a href=https://www.linkedin.com/in/danielle-thompson74/ >LinkedIn</a>
+- <a href=https://twitter.com/danitcodes/ >Twitter</a>
+- <a href=https://open.spotify.com/user/1264447945/ >Spotify</a>
+- On <a href=https://www.twitch.tv/danitcodes/ >Twitch</a> weekly at 7pm ish (PST) on Wednesdays <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a>, on 'Code School Q&A' aimed at supporting coding school students and recent grads working to get into the tech industry.
+
+<div align="center">
+
+<img src="assets/TwitchStream.png" alt="screenshot of Code School Q&A Twitch stream" height="300px" width="auto">
+
+</div>
