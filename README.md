@@ -47,7 +47,7 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 
 <img src="assets/ModernPotions_SplashPage.png" alt="Splash page of the Modern Potions website" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/danitcodes/-capstone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danitcodes&repo=-capstone)](https://github.com/danitcodes/-capstone)
 
 - Redesign of and feature additions to the [NSBE Pro-PDX](https://www.nsbepropdx.org/) site.
 
