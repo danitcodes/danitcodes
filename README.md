@@ -2,14 +2,15 @@
 
 # Welcome! I'm Danielle.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=danitcodes&show_icons=true&icon_color=000080&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" />
+
+<br />
+<br />
+
 Currently, I am seeking a full-stack, full-time Software Developer role. In the meantime, I am doing some independent contract work in web development, and software development at [GiftRibbn](ribbn.io). Recently, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/) and am recent graduate of a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Coding School in Portland, OR.
 
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danitcodes&show_icons=true&layout=compact&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" />
-
-<br />
-<br />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=danitcodes&show_icons=true&icon_color=000080&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" />
 
 <br />
 <br />
