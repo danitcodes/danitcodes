@@ -37,7 +37,7 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 ### 📙 Overview
 
 - Pronouns: **she/her, they/them**
-- 🌱 I’m currently learning ... ⚡ React, Redux, Next.js ⚡
+- 🌱 I’m currently learning ... ⚡ React, Redux, Next.js, & Typescript ⚡
 - 👣 Next steps for me ... securing a full-time software developer position! 🦾
 - 💬 Ask me about ... craft cocktails! 🍹
 
