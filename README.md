@@ -17,10 +17,10 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 <br />
 
 |  _Coding Stats_ 	|   Site	|   Rank 	|   Points 	|   Technologies 	|
-|:-:	|:-:	|:-:	|:-:	|
+|:-:	|:-:	|:-:	|:-:	|:-:	|
 |  1 	|  [CodeWars](https://www.codewars.com/users/danitcodes)  |  <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />	|  JavaScript 	|
 |  2 	|   [Edabit](https://edabit.com/user/NPPFh5vCtYrQREYaC)	  |  Level 3 	|  155XP 	|  JavaScript, C# 	|
-|  3 	|   [LeetCode](https://leetcode.com/danitcodes/)	  |  Level 3 	|  155XP 	|  JavaScript 	|
+|  3 	|   [LeetCode](https://leetcode.com/danitcodes/)	  |  N/A 	|  N/A 	|  JavaScript 	|
 |  4 	|   [Exercism](https://exercism.io/profiles/danitcodes)	  |  N/A	|  N/A 	|  JavaScript, C#, Typescript 	|
 
 <br />
