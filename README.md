@@ -16,17 +16,19 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 <br />
 <br />
 
-|  _Coding Stats_ 	|   Site	|   Rank 	|   Points 	|
+|  _Coding Stats_ 	|   Site	|   Rank 	|   Points 	|   Technologies 	|
 |:-:	|:-:	|:-:	|:-:	|
-|  1 	|  [CodeWars](https://www.codewars.com/users/danitcodes)  |  <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />	|
-|  2 	|   [Edabit](https://edabit.com/user/NPPFh5vCtYrQREYaC)	  |  Level 3 	|  155XP 	|
+|  1 	|  [CodeWars](https://www.codewars.com/users/danitcodes)  |  <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />	|  JavaScript 	|
+|  2 	|   [Edabit](https://edabit.com/user/NPPFh5vCtYrQREYaC)	  |  Level 3 	|  155XP 	|  JavaScript, C# 	|
+|  3 	|   [LeetCode](https://leetcode.com/danitcodes/)	  |  Level 3 	|  155XP 	|  JavaScript 	|
+|  4 	|   [Exercism](https://exercism.io/profiles/danitcodes)	  |  N/A	|  N/A 	|  JavaScript, C#, Typescript 	|
 
 <br />
 
 <!-- **Incoming Stats** <br />
-[LeetCode Stats](https://leetcode.com/danitcodes/) <br />
+ <br />
 [Hacker Rank](https://www.hackerrank.com/danithompson74) <br />
-[Exercism](https://www.hackerrank.com/danitcodes?hr_r=1) <br />
+ <br />
 <br />
 <br /> -->
 
