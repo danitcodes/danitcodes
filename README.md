@@ -64,14 +64,17 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 
 ## 📃 About Me
 
-### 📚 Currently Reading
+### Upcoming & Recent Conferences
+
+- May 25-27, 2021, (virtual) New Relic's [FutureStack](https://newrelic.com/futurestack)
+- June 8, 2021, (virtual) Applitools + Cypress present [Front-end Test Fest](https://frontendtestfest.com/)
+- Aug 5-8, 2021, (IRL) [DEFCON29](https://www.defcon.org/html/defcon-29/dc-29-index.html)
+
+### 📚 Currently & Recent Reading
 
 - Algorithms of Oppression by [Safiya Noble](http://algorithmsofoppression.com/)
 - The Tangled Web: A Guide to Securing Modern Web Applications by [Michal Zalewski](https://www.oreilly.com/library/view/the-tangled-web/9781593273880/)
 - Mexican Gothic by [Silvia Moreno-Garcia](https://silviamoreno-garcia.com/)
-
-### 📚 Recently Read in 2021
-
 - Broad Band: The Untold Story of the Women Who Made the Internet, by [Claire L. Evans](https://clairelevans.com/)
 - Where the Dead Pause and the Japanese Say Goodbye by [Marie Matsuki Mockett](http://www.mariemockett.com/books/where-the-dead-pause-the-japanese-say-goodbye/)
 
