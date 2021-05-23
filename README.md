@@ -64,6 +64,10 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 
 ## 📃 About Me
 
+### Blog
+
+- Code School Survival Tract, 2021 on [Medium](https://danitcodes.medium.com/code-school-survival-tract-9930cab2f9a8)
+
 ### Upcoming & Recent Conferences
 
 - May 25-27, 2021, (virtual) New Relic's [FutureStack](https://newrelic.com/futurestack)
