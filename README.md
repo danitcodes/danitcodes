@@ -103,10 +103,11 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 
 ### 📫 Find me
 
-- <a href=https://www.linkedin.com/in/danielle-thompson74/ >LinkedIn</a>
-- <a href=https://twitter.com/danitcodes/ >Twitter</a>
-- <a href=https://open.spotify.com/user/1264447945/ >Spotify</a>
-- On <a href=https://www.twitch.tv/danitcodes/ >Twitch</a> weekly at 7pm ish (PST) on Wednesdays <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a>, on 'Code School Q&A' aimed at supporting coding school students and recent grads working to get into the tech industry.
+- <a href="https://www.linkedin.com/in/danielle-thompson74"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+- ![Twitter Follow](https://img.shields.io/twitter/follow/danitcodes?style=social)
+- ![GitHub followers](https://img.shields.io/github/followers/danitcodes?style=social)
+- <a href=https://open.spotify.com/user/1264447945/ ><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+- On ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social) weekly at 7pm ish (PST) on Wednesdays <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a>, on 'Code School Q&A' aimed at supporting coding school students and recent grads working to get into the tech industry.
 
 <div align="center">
 
