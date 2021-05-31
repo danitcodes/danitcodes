@@ -67,6 +67,7 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 ### Blogs
 
 - Code School Survival Tract, 2021 on [Medium](https://danitcodes.medium.com/code-school-survival-tract-9930cab2f9a8)
+- NSBE Pro-PDX Gets its First Interns, 2021 on [NSBE Pro-PDX](https://www.nsbepropdx.org/post/nsbe-pro-pdx-gets-its-first-interns)
 
 ### Upcoming & Recent Conferences
 
