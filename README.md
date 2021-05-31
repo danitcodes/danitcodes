@@ -39,7 +39,7 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 ### 📙 Overview
 
 - Pronouns: **she/her, they/them**
-- 🌱 I’m currently learning ... ⚡ React, Redux, Next.js, & Typescript ⚡
+- 🌱 I’m currently learning ... ⚡ React, Next.js, Docker, Ruby ⚡
 - 👣 Next steps for me ... securing a full-time software developer position! 🦾
 - 💬 Ask me about ... craft cocktails! 🍹
 
@@ -64,7 +64,7 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 
 ## 📃 About Me
 
-### Blog
+### Blogs
 
 - Code School Survival Tract, 2021 on [Medium](https://danitcodes.medium.com/code-school-survival-tract-9930cab2f9a8)
 
