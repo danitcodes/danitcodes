@@ -82,7 +82,7 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 - May 25-27, 2021, (virtual) New Relic's [FutureStack](https://newrelic.com/futurestack)
 - June 8, 2021, (virtual) Applitools + Cypress present [Front-end Test Fest](https://frontendtestfest.com/)
 - June 7-11, 2021 (virtual) [Treehouse Festival](https://hopin.com/events/treehouse-festival-fab8e43e-1fc8-4c99-8335-c42e6d021762)
-- June 10 & 11 (virtual) CONNECT REIMAGINE 2021 by Women Who Code
+- June 10 & 11 (virtual) [CONNECT REIMAGINE 2021](https://connectreimagine.womenwhocode.dev/) by Women Who Code
 - Aug 5-8, 2021, (IRL) [DEFCON29](https://www.defcon.org/html/defcon-29/dc-29-index.html)
 
 ### 📚 Current & Recent Reading
