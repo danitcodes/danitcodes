@@ -46,7 +46,7 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 ### 🚧 Current & Recent Projects
 
 - My passion project and Epicodus capstone, [Modern Potions](https://capstone-roan.vercel.app/), a craft cocktail beverage service based out of Portland.
-_Highlights_: React, Next.js, Crystallize CMS, Canva for graphic design, UX/UI, hospitality, e-commerce.
+  - _Highlights_: React, Next.js, Crystallize CMS, Canva for graphic design, UX/UI, hospitality, e-commerce.
 
 <img src="assets/ModernPotions_SplashPage.png" alt="Splash page of the Modern Potions website" style="padding-bottom: 20px;"/>
 
