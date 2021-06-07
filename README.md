@@ -58,9 +58,11 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 <img src="assets/NSBEHome.png" alt="Splash page of the NSBE Pro-PDX website" style="padding-bottom: 20px;"/>
 
 - (WIP) Redesign of website for Portland, OR band, Strange & the Familiars.
-  - _Highlights_: UX/UI redesign, HTML5, CSS3, WordPress CMS, domain transfer, BlueHost hosting.
+  - _Highlights_: UX/UI redesign, HTML5 with reusable vanilla HTML components, CSS3, WordPress CMS, domain transfer, BlueHost hosting.
 
 <img src="assets/Strange_And_Familiars_Splash.png" alt="Splash page of the new Strange and the Familiars band website"  style="padding-bottom: 20px;" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danitcodes&repo=strange-and-the-familiars)](https://github.com/danitcodes/-capstone)
 
 - (WIP) Front-end development for [GiftRibbn.io](ribbn.io).
   - _Highlights_: React, UX/UI design, C# API and database back-end connections, JWT authorization & authentication, hospitality, e-commerce.
