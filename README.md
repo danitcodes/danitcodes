@@ -46,18 +46,26 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 ### 🚧 Current & Recent Projects
 
 - My passion project and Epicodus capstone, [Modern Potions](https://capstone-roan.vercel.app/), a craft cocktail beverage service based out of Portland.
+_Highlights_: React, Next.js, Crystallize CMS, Canva for graphic design, UX/UI, hospitality, e-commerce.
 
-<img src="assets/ModernPotions_SplashPage.png" alt="Splash page of the Modern Potions website" />
+<img src="assets/ModernPotions_SplashPage.png" alt="Splash page of the Modern Potions website" style="padding-bottom: 20px;"/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danitcodes&repo=-capstone)](https://github.com/danitcodes/-capstone)
 
-- Redesign of and feature additions to the [NSBE Pro-PDX](https://www.nsbepropdx.org/) site.
+- Redesign of and feature additions to the non-profit [NSBE Pro-PDX's](https://www.nsbepropdx.org/) site.
+  - _Highlights_: Added a job board, a paid subscription service, a blog, media, and more thorough copywriting content; SEO; improved security with CAPTCHA forms; improved donation portals with Donorbox; UX/UI redesign for web and mobile experiences; created "how-to" documentation for internal and external use; improved back-end connections to PayPal and MailChimp.
 
-<img src="assets/NSBEHome.png" alt="Splash page of the NSBE Pro-PDX website"/>
+<img src="assets/NSBEHome.png" alt="Splash page of the NSBE Pro-PDX website" style="padding-bottom: 20px;"/>
 
-- Front-end development for [GiftRibbn.io](ribbn.io).
+- (WIP) Redesign of website for Portland, OR band, Strange & the Familiars.
+  - _Highlights_: UX/UI redesign, HTML5, CSS3, WordPress CMS, domain transfer, BlueHost hosting.
+
+<img src="assets/Strange_And_Familiars_Splash.png" alt="Splash page of the new Strange and the Familiars band website"  style="padding-bottom: 20px;" />
+
+- (WIP) Front-end development for [GiftRibbn.io](ribbn.io).
+  - _Highlights_: React, UX/UI design, C# API and database back-end connections, JWT authorization & authentication, hospitality, e-commerce.
+
 - _Coming soon_ Website redesign/feature add-ons for the following local Portland businesses:
-  - Portland band, Strange & the Familiars
   - FLi Social
   - Grandmere Supper Club
   - Professional portfolios & content creator sites for PDX STEM professionals.
@@ -77,7 +85,7 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 - June 10 & 11 (virtual) CONNECT REIMAGINE 2021 by Women Who Code
 - Aug 5-8, 2021, (IRL) [DEFCON29](https://www.defcon.org/html/defcon-29/dc-29-index.html)
 
-### 📚 Currently & Recent Reading
+### 📚 Current & Recent Reading
 
 - Algorithms of Oppression by [Safiya Noble](http://algorithmsofoppression.com/)
 - The Tangled Web: A Guide to Securing Modern Web Applications by [Michal Zalewski](https://www.oreilly.com/library/view/the-tangled-web/9781593273880/)
@@ -95,10 +103,9 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 
 ### 🤩 Yes, that
 
-- Documentation
+- Thorough, clear documentation
 - Checklists
 - All the tea
-- Database design
 - Design systems
 - Thorough testing
 
