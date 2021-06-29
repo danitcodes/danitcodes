@@ -79,6 +79,14 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 - Code School Survival Tract, 2021 on [Medium](https://danitcodes.medium.com/code-school-survival-tract-9930cab2f9a8)
 - NSBE Pro-PDX Gets its First Interns, 2021 on [NSBE Pro-PDX](https://www.nsbepropdx.org/post/nsbe-pro-pdx-gets-its-first-interns)
 
+### Speaking Engagements
+
+- On ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social) weekly at 7pm ish (PST) on Wednesdays <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a>, on 'Code School Q&A' aimed at supporting coding school students and recent grads working to get into the tech industry.
+- July 21, 2021, 10:00AM (PST): DEV,to Twitch Stream (more info to follow)
+- July 20, 2021, 12:00PM - 1:00 PM (PST): PDXWIT Happy (Lunch) Hour - First Gen in Tech, Lightning Speaker / [Link](https://www.pdxwit.org/upcoming-events/2021/7/20/july-happy-hour-first-gen-in-tech)
+- July 14, 2021, 12:00PM - 1:00PM (PST): Epicodus Alumni Internship Experience Panel
+- January 21, 2021, 12:00PM - 1:00PM (PST): Epicodus Upper Cohort Peer Mentor Lunch Talk
+
 ### Upcoming & Recent Conferences
 
 - May 25-27, 2021, (virtual) New Relic's [FutureStack](https://newrelic.com/futurestack)
@@ -109,9 +117,9 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 - Checklists
 - All the tea
 - Design systems
-- Thorough testing
+- Test-driven development
 
-### 📫 Find me
+### 📫 Connect
 
 - <a href="https://www.linkedin.com/in/danielle-thompson74"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
@@ -122,7 +130,7 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 - <a href="https://danitcodes.medium.com/"><img alt="Danielle Thompson's Medium Profile" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 - <a href=https://open.spotify.com/user/1264447945/ ><img alt="Danielle Thompson's Spotify Profile" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 
-- On ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social) weekly at 7pm ish (PST) on Wednesdays <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a>, on 'Code School Q&A' aimed at supporting coding school students and recent grads working to get into the tech industry.
+- ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social)
 
 <div align="center">
 
