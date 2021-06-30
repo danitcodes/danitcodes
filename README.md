@@ -121,19 +121,17 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 
 ### 📫 Connect
 
-- <a href="https://www.linkedin.com/in/danielle-thompson74"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/danielle-thompson74"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://dev.to/danitcodes"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Danielle Thompson's DEV Community Profile" height="30" width="30"></a>
+<a href="https://danitcodes.medium.com/"><img alt="Danielle Thompson's Medium Profile" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+<a href=https://open.spotify.com/user/1264447945/ ><img alt="Danielle Thompson's Spotify Profile" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 
-- ![Twitter Follow](https://img.shields.io/twitter/follow/danitcodes?style=social)
-- ![GitHub followers](https://img.shields.io/github/followers/danitcodes?style=social)
-
-- <a href="https://dev.to/danitcodes"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Danielle Thompson's DEV Community Profile" height="30" width="30"></a>
-- <a href="https://danitcodes.medium.com/"><img alt="Danielle Thompson's Medium Profile" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
-- <a href=https://open.spotify.com/user/1264447945/ ><img alt="Danielle Thompson's Spotify Profile" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
-
-- ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social)
-
-<div align="center">
+![Twitter Follow](https://img.shields.io/twitter/follow/danitcodes?style=social)
+![GitHub followers](https://img.shields.io/github/followers/danitcodes?style=social)
+![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social)
 
 <img src="assets/TwitchStream.png" alt="screenshot of Code School Q&A Twitch stream" height="300px" width="auto">
+
+<div align="center">
 
 </div>
