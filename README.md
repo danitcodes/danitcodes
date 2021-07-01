@@ -52,17 +52,29 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danitcodes&repo=-capstone)](https://github.com/danitcodes/-capstone)
 
+---
+
 - Redesign of and feature additions to the non-profit [NSBE Pro-PDX's](https://www.nsbepropdx.org/) site.
-  - _Highlights_: Added a job board, a paid subscription service, a blog, media, and more thorough copywriting content; SEO; improved security with CAPTCHA forms; improved donation portals with Donorbox; UX/UI redesign for web and mobile experiences; created "how-to" documentation for internal and external use; improved back-end connections to PayPal and MailChimp.
+  - _Highlights_: Added a job board, a paid subscription service, a blog, media, and more thorough copywriting content; SEO; Wix content management system; improved security with CAPTCHA forms; improved donation portals with Donorbox; UX/UI redesign for web and mobile experiences; created "how-to" documentation for internal and external use; improved back-end connections to PayPal and MailChimp.
 
 <img src="assets/NSBEHome.png" alt="Splash page of the NSBE Pro-PDX website" style="padding-bottom: 20px;"/>
+
+---
 
 - (WIP) Redesign of website for Portland, OR band, Strange & the Familiars.
   - _Highlights_: UX/UI redesign, HTML5 with reusable vanilla HTML components, CSS3, WordPress CMS, domain transfer, BlueHost hosting.
 
 <img src="assets/Strange_And_Familiars_Splash.png" alt="Splash page of the new Strange and the Familiars band website"  style="padding-bottom: 20px;" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danitcodes&repo=strange-and-the-familiars)](https://github.com/danitcodes/-capstone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danitcodes&repo=strange-and-the-familiars)](https://github.com/danitcodes/strange-and-the-familiars)
+
+---
+
+- UX/UI redesign of [J'reyesha Brannon's professional portfolio](www.jreyesha.com) website in Wix CMS, with several page additions and minor copywriting.
+
+<img src="assets/JreyeshaBrannon_Professional.png" alt="Splash page of the redesign for J'reyesha Brannon's professional portfolio website"  style="padding-bottom: 20px;" />
+
+---
 
 - (WIP) Front-end development for [GiftRibbn.io](ribbn.io).
   - _Highlights_: React, UX/UI design, C# API and database back-end connections, JWT authorization & authentication, hospitality, e-commerce.
