@@ -80,6 +80,7 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
   - _Highlights_: React, UX/UI design, C# API and database back-end connections, JWT authorization & authentication, hospitality, e-commerce.
 
 - _Coming soon_ Website redesign/feature add-ons for the following local Portland businesses:
+  - Good in the Hood Multicultural Festival
   - FLi Social
   - Grandmere Supper Club
   - Professional portfolios & content creator sites for PDX STEM professionals.
