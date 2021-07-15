@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Currently, I am seeking a full-stack, full-time Software Developer role. In the meantime, I am doing some independent contract work in web development, and software development at [GiftRibbn](ribbn.io). Recently, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/) and am recent graduate of a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Coding School in Portland, OR.
+I am a full-time Junior Software Engineer at Open Up Resources. Before taking this position, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/), was a front-end software developer for GiftRibbn, and graduated from a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Code School in Portland, OR.
 
 <br />
 
@@ -21,12 +21,12 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 |  1 	|  [CodeWars](https://www.codewars.com/users/danitcodes)  |  <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />	|   	|JavaScript 	|
 |  2 	|   [Edabit](https://edabit.com/user/NPPFh5vCtYrQREYaC)	  |  Level 4 	|  230XP 	|  JavaScript, C# 	|
 |  3 	|   [LeetCode](https://leetcode.com/danitcodes/)	  |  N/A 	|  66 	|  JavaScript 	|
-|  4 	|   [Exercism](https://exercism.io/profiles/danitcodes)	  |  N/A	|  N/A 	|  JavaScript, C#, Typescript 	|
 
 <br />
 
 <!-- **Incoming Stats** <br />
  <br />
+|  4 	|   [Exercism](https://exercism.io/profiles/danitcodes)	  |  N/A	|  N/A 	|  JavaScript, C#, Typescript 	|
 [Hacker Rank](https://www.hackerrank.com/danithompson74) <br />
  <br />
 <br />
@@ -40,8 +40,8 @@ Currently, I am seeking a full-stack, full-time Software Developer role. In the 
 
 - Pronouns: **she/her, they/them**
 - 🌱 I’m currently learning ... ⚡ React, Next.js, Docker, Ruby ⚡
-- 👣 Next steps for me ... securing a full-time software developer position! 🦾
-- 💬 Ask me about ... craft cocktails! 🍹
+- 👣 Next steps for me ... settling into my first full-time software developer position! 🦾
+- 💬 Ask me about ... getting into tech with a non-traditional background, or craft cocktails! 🍹
 
 ### 🚧 Current & Recent Projects
 
