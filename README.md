@@ -19,14 +19,14 @@ I am a full-time Junior Software Engineer at Open Up Resources. Before taking th
 |  _Coding Stats_ 	|   Site	|   Rank 	|   Points 	|   Technologies 	|
 |:-:	|:-:	|:-:	|:-:	|:-:	|
 |  1 	|  [CodeWars](https://www.codewars.com/users/danitcodes)  |  <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />	|   	|JavaScript 	|
-|  2 	|   [Edabit](https://edabit.com/user/NPPFh5vCtYrQREYaC)	  |  Level 4 	|  230XP 	|  JavaScript, C# 	|
-|  3 	|   [LeetCode](https://leetcode.com/danitcodes/)	  |  N/A 	|  66 	|  JavaScript 	|
+|  2 	|   [Edabit](https://edabit.com/user/NPPFh5vCtYrQREYaC)	  |  Level 4 	|  270XP 	|  JavaScript, Ruby, C# 	|
+|  3 	|   [Exercism](https://exercism.io/profiles/danitcodes)	  |  N/A	|  N/A 	|  Ruby, JavaScript 	|
 
 <br />
 
 <!-- **Incoming Stats** <br />
  <br />
-|  4 	|   [Exercism](https://exercism.io/profiles/danitcodes)	  |  N/A	|  N/A 	|  JavaScript, C#, Typescript 	|
+|   	|   [LeetCode](https://leetcode.com/danitcodes/)	  |  N/A 	|  66 	|  JavaScript 	|
 [Hacker Rank](https://www.hackerrank.com/danithompson74) <br />
  <br />
 <br />
@@ -95,7 +95,7 @@ I am a full-time Junior Software Engineer at Open Up Resources. Before taking th
 ### Speaking Engagements
 
 - On ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social) weekly at 7pm ish (PST) on Wednesdays <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a>, on 'Code School Q&A' aimed at supporting coding school students and recent grads working to get into the tech industry.
-- July 21, 2021, 10:00AM (PST): DEV,to Twitch Stream (more info to follow)
+- July 21, 2021, 10:00AM (PST): DEV,to Twitch Stream [Watch Here!](https://www.youtube.com/watch?v=ha691P-bA58)
 - July 20, 2021, 12:00PM - 1:00 PM (PST): PDXWIT Happy (Lunch) Hour - First Gen in Tech, Lightning Speaker / [Link](https://www.pdxwit.org/upcoming-events/2021/7/20/july-happy-hour-first-gen-in-tech)
 - July 14, 2021, 12:00PM - 1:00PM (PST): Epicodus Alumni Internship Experience Panel
 - January 21, 2021, 12:00PM - 1:00PM (PST): Epicodus Upper Cohort Peer Mentor Lunch Talk
