@@ -95,12 +95,13 @@ I am a full-time Junior Software Engineer at Open Up Resources. Before taking th
 ### Speaking Engagements
 
 - On ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social) weekly at 7pm ish (PST) on Wednesdays <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a>, on 'Code School Q&A' aimed at supporting coding school students and recent grads working to get into the tech industry.
+- Greater Than Code podcast, Oct 13, 2021, "Transitioning into Tech" [Listen Here!](https://www.greaterthancode.com/transitioning-into-tech)
 - July 21, 2021, 10:00AM (PST): DEV,to Twitch Stream [Watch Here!](https://www.youtube.com/watch?v=ha691P-bA58)
 - July 20, 2021, 12:00PM - 1:00 PM (PST): PDXWIT Happy (Lunch) Hour - First Gen in Tech, Lightning Speaker / [Link](https://www.pdxwit.org/upcoming-events/2021/7/20/july-happy-hour-first-gen-in-tech)
 - July 14, 2021, 12:00PM - 1:00PM (PST): Epicodus Alumni Internship Experience Panel
 - January 21, 2021, 12:00PM - 1:00PM (PST): Epicodus Upper Cohort Peer Mentor Lunch Talk
 
-### Upcoming & Recent Conferences
+### Recent Conferences
 
 - May 25-27, 2021, (virtual) New Relic's [FutureStack](https://newrelic.com/futurestack)
 - June 8, 2021, (virtual) Applitools + Cypress present [Front-end Test Fest](https://frontendtestfest.com/)
