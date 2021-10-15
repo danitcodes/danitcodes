@@ -7,7 +7,7 @@
 <br />
 <br />
 
-I am a full-time Junior Software Engineer at Open Up Resources. Before taking this position, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/), was a front-end software developer for GiftRibbn, and graduated from a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Code School in Portland, OR.
+I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resources](https://www.openupresources.org/), that is working to increase equity in education by making high-quality curriculum openly available. Before taking this position, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/), was a front-end software developer for GiftRibbn, and graduated from a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Code School in Portland, OR.
 
 <br />
 
@@ -19,7 +19,7 @@ I am a full-time Junior Software Engineer at Open Up Resources. Before taking th
 |  _Coding Stats_ 	|   Site	|   Rank 	|   Points 	|   Technologies 	|
 |:-:	|:-:	|:-:	|:-:	|:-:	|
 |  1 	|  [CodeWars](https://www.codewars.com/users/danitcodes)  |  <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />	|   	|JavaScript 	|
-|  2 	|   [Edabit](https://edabit.com/user/NPPFh5vCtYrQREYaC)	  |  Level 4 	|  270XP 	|  JavaScript, Ruby, C# 	|
+|  2 	|   [Edabit](https://edabit.com/user/NPPFh5vCtYrQREYaC)	  |  Level 4 	|  335XP 	|  JavaScript, Ruby, C# 	|
 |  3 	|   [Exercism](https://exercism.io/profiles/danitcodes)	  |  N/A	|  N/A 	|  Ruby, JavaScript 	|
 
 <br />
@@ -39,11 +39,11 @@ I am a full-time Junior Software Engineer at Open Up Resources. Before taking th
 ### 📙 Overview
 
 - Pronouns: **she/her, they/them**
-- 🌱 I’m currently learning ... ⚡ React, Next.js, Docker, Ruby ⚡
+- 🌱 I’m currently learning ... ⚡ Ruby on Rails & deep-diving into CSS ⚡
 - 👣 Next steps for me ... settling into my first full-time software developer position! 🦾
 - 💬 Ask me about ... getting into tech with a non-traditional background, or craft cocktails! 🍹
 
-### 🚧 Current & Recent Projects
+### 🚧 Recent Personal Projects
 
 - My passion project and Epicodus capstone, [Modern Potions](https://capstone-roan.vercel.app/), a craft cocktail beverage service based out of Portland.
   - _Highlights_: React, Next.js, Crystallize CMS, Canva for graphic design, UX/UI, hospitality, e-commerce.
@@ -61,7 +61,7 @@ I am a full-time Junior Software Engineer at Open Up Resources. Before taking th
 
 ---
 
-- (WIP) Redesign of website for Portland, OR band, Strange & the Familiars.
+- Redesign of website for Portland, OR band, [Strange & the Familiars](www.strangeandthefamiliars.com).
   - _Highlights_: UX/UI redesign, HTML5 with reusable vanilla HTML components, CSS3, WordPress CMS, domain transfer, BlueHost hosting.
 
 <img src="assets/Strange_And_Familiars_Splash.png" alt="Splash page of the new Strange and the Familiars band website"  style="padding-bottom: 20px;" />
@@ -76,14 +76,19 @@ I am a full-time Junior Software Engineer at Open Up Resources. Before taking th
 
 ---
 
-- (WIP) Front-end development for [GiftRibbn.io](ribbn.io).
+- [Grandmere Supper Club](https://www.grandmeresupperclub.com/) - a Portland pop-up focused on slow French cooking.
+
+<img src="assets/GrandmereSplash.png" alt="Splash page of Grandmere Supper Club's business website" style="padding-bottom: 20px;" />
+
+---
+
+- Front-end development for [GiftRibbn.io](ribbn.io).
   - _Highlights_: React, UX/UI design, C# API and database back-end connections, JWT authorization & authentication, hospitality, e-commerce.
 
-- _Coming soon_ Website redesign/feature add-ons for the following local Portland businesses:
+<!-- - _Coming soon_ Website redesign/feature add-ons for the following local Portland businesses:
   - Good in the Hood Multicultural Festival
   - FLi Social
-  - Grandmere Supper Club
-  - Professional portfolios & content creator sites for PDX STEM professionals.
+  - Professional portfolios & content creator sites for PDX STEM professionals. -->
 
 ## 📃 About Me
 
