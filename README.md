@@ -82,7 +82,7 @@ I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resour
 
 ---
 
-- Front-end development for [GiftRibbn.io](ribbn.io).
+- Front-end development for [GiftRibbn.io](https://www.instagram.com/giftribbn/).
   - _Highlights_: React, UX/UI design, C# API and database back-end connections, JWT authorization & authentication, hospitality, e-commerce.
 
 <!-- - _Coming soon_ Website redesign/feature add-ons for the following local Portland businesses:
