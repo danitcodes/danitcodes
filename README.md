@@ -100,6 +100,7 @@ I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resour
 ### Speaking Engagements
 
 - On ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social) weekly at 7pm ish (PST) on Wednesdays <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a>, on 'Code School Q&A' aimed at supporting coding school students and recent grads working to get into the tech industry.
+- Launchies podcast, Episode 041, posted Dec 15, 2021, "Googling and Self-Teaching – Attend Code School Q&A with Danielle Thompson" [Listen Here!](https://dev.to/newrelic/googling-and-self-teaching-attend-code-school-qa-with-danielle-thompson-3gce)
 - Greater Than Code podcast, Oct 13, 2021, "Transitioning into Tech" [Listen Here!](https://www.greaterthancode.com/transitioning-into-tech)
 - July 21, 2021, 10:00AM (PST): DEV,to Twitch Stream [Watch Here!](https://www.youtube.com/watch?v=ha691P-bA58)
 - July 20, 2021, 12:00PM - 1:00 PM (PST): PDXWIT Happy (Lunch) Hour - First Gen in Tech, Lightning Speaker / [Link](https://www.pdxwit.org/upcoming-events/2021/7/20/july-happy-hour-first-gen-in-tech)
