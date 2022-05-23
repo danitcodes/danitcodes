@@ -99,7 +99,8 @@ I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resour
 
 ### Speaking Engagements
 
-- On ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social) weekly at 7pm ish (PST) on Wednesdays <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a>, on 'Code School Q&A' aimed at supporting coding school students and recent grads working to get into the tech industry.
+- (upcoming) Speaker at [ChickTech + ACT-W Virtual Conference](https://act-w.org/conference/), August 30 – September 1, 2022, "From Bartender to Software Engineer - How I Went from Slinging Drinks to Coding for a Living at 30"
+- On ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social) weekly at 12pm ish (PT) on Fridays <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a>, on 'Code School Q&A' aimed at supporting coding school students and recent grads working to get into the tech industry.
 - Launchies podcast, Episode 041, posted Dec 15, 2021, "Googling and Self-Teaching – Attend Code School Q&A with Danielle Thompson" [Listen Here!](https://dev.to/newrelic/googling-and-self-teaching-attend-code-school-qa-with-danielle-thompson-3gce)
 - Greater Than Code podcast, Oct 13, 2021, "Transitioning into Tech" [Listen Here!](https://www.greaterthancode.com/transitioning-into-tech)
 - July 21, 2021, 10:00AM (PST): DEV,to Twitch Stream [Watch Here!](https://www.youtube.com/watch?v=ha691P-bA58)
@@ -109,6 +110,8 @@ I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resour
 
 ### Recent Conferences
 
+- (upcoming) June 15-16, 2022, (virtual) [RailsConf: Home Edition](https://railsconf.org/register-virtual)
+- May 17-19, 2022, (IRL) [RailsConf](https://railsconf.org/) In-Person
 - May 25-27, 2021, (virtual) New Relic's [FutureStack](https://newrelic.com/futurestack)
 - June 8, 2021, (virtual) Applitools + Cypress present [Front-end Test Fest](https://frontendtestfest.com/)
 - June 7-11, 2021 (virtual) [Treehouse Festival](https://hopin.com/events/treehouse-festival-fab8e43e-1fc8-4c99-8335-c42e6d021762)
