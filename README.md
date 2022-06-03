@@ -7,7 +7,7 @@
 <br />
 <br />
 
-I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resources](https://www.openupresources.org/), that is working to increase equity in education by making high-quality curriculum openly available. Before taking this position, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/), was a front-end software developer for GiftRibbn, and graduated from a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Code School in Portland, OR.
+I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resources](https://www.openupresources.org/), that is working to increase equity in education by making high-quality curriculum openly available. Before taking this position, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/), was a junior software developer for GiftRibbn, and graduated from a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Code School in Portland, OR.
 
 <br />
 
