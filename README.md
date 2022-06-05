@@ -43,15 +43,6 @@ I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resour
 - 👣 Next steps for me ... settling into my first full-time software developer position! 🦾
 - 💬 Ask me about ... getting into tech with a non-traditional background, or craft cocktails! 🍹
 
-### 🚧 Recent Personal Projects
-
-- My passion project and Epicodus capstone, [Modern Potions](https://capstone-roan.vercel.app/), a craft cocktail beverage service based out of Portland.
-  - _Highlights_: React, Next.js, Crystallize CMS, Canva for graphic design, UX/UI, hospitality, e-commerce.
-
-<img src="assets/ModernPotions_SplashPage.png" alt="Splash page of the Modern Potions website" style="padding-bottom: 20px;"/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danitcodes&repo=-capstone)](https://github.com/danitcodes/-capstone)
-
 ---
 
 - Redesign of and feature additions to the non-profit [NSBE Pro-PDX's](https://www.nsbepropdx.org/) site.
@@ -118,7 +109,7 @@ I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resour
 - June 10 & 11 (virtual) [CONNECT REIMAGINE 2021](https://connectreimagine.womenwhocode.dev/) by Women Who Code
 - Aug 5-8, 2021, (IRL) [DEFCON29](https://www.defcon.org/html/defcon-29/dc-29-index.html)
 
-### 📚 Current & Recent Reading
+### 📚 Recent Reading
 
 - Algorithms of Oppression by [Safiya Noble](http://algorithmsofoppression.com/)
 - The Tangled Web: A Guide to Securing Modern Web Applications by [Michal Zalewski](https://www.oreilly.com/library/view/the-tangled-web/9781593273880/)
@@ -138,9 +129,8 @@ I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resour
 
 - Thorough, clear documentation
 - Checklists
-- All the tea
 - Design systems
-- Test-driven development
+- REPL-driven & Test-driven development
 
 ### 📫 Connect
 
