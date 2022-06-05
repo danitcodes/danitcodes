@@ -51,7 +51,7 @@ I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resour
 ---
 
 - Redesign of website for Portland, OR band, [Strange & the Familiars](www.strangeandthefamiliars.com).
-  - _Highlights_: UX/UI redesign, HTML5 with reusable vanilla HTML components, CSS3, WordPress CMS, domain transfer, BlueHost hosting.
+  - _Highlights_: UX/UI redesign, semantic HTML5 with reusable vanilla HTML components, CSS3, domain transfer, devops through Vercel & BlueHost.
 
 <img src="assets/Strange_And_Familiars_Splash.png" alt="Splash page of the new Strange and the Familiars band website"  style="padding-bottom: 20px;" />
 
