@@ -43,7 +43,7 @@ I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resour
 - 👣 Next steps for me ... settling into my first full-time software developer position! 🦾
 - 💬 Ask me about ... getting into tech with a non-traditional background, or craft cocktails! 🍹
 
----
+### Recent Contracted Projects
 
 - Redesign of and feature additions to the non-profit [NSBE Pro-PDX's](https://www.nsbepropdx.org/) site.
   - _Highlights_: Added a job board, a paid subscription service, a blog, media, and more thorough copywriting content; SEO; Wix content management system; improved security with CAPTCHA forms; improved donation portals with Donorbox; UX/UI redesign for web and mobile experiences; created "how-to" documentation for internal and external use; improved back-end connections to PayPal and MailChimp.
