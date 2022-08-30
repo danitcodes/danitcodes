@@ -18,7 +18,7 @@ I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resour
 |:-:	|:-:	|:-:	|:-:	|:-:	|
 |  1 	|  [CodeWars](https://www.codewars.com/users/danitcodes)  |  <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />	|   	|JavaScript 	|
 |  2 	|   [Edabit](https://edabit.com/user/NPPFh5vCtYrQREYaC)	  |  Level 4 	|  335XP 	|  JavaScript, Ruby, C# 	|
-|  3 	|   [Exercism](https://exercism.io/profiles/danitcodes)	  |  N/A	|  N/A 	|  Ruby, JavaScript 	|
+|  3 	|   [Exercism](https://exercism.io/profiles/danitcodes)	  |  N/A	|  14rep 	|  Ruby, JavaScript 	|
 
 <br />
 
@@ -37,9 +37,9 @@ I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resour
 ### 📙 Overview
 
 - Pronouns: **she/her, they/them**
-- 🌱 I’m currently learning ... ⚡ Ruby on Rails & deep-diving into CSS ⚡
-- 👣 Next steps for me ... settling into my first full-time software developer position! 🦾
-- 💬 Ask me about ... getting into tech with a non-traditional background, or craft cocktails! 🍹
+- 🌱 I’m currently learning ... ⚡ Ruby/Rails #forever ❤️ ⚡
+- 👣 Next steps for me ... second year as full-time software developer! 🦾
+- 💬 Ask me about ... getting into tech from non-traditional backgrounds, or craft cocktails! 🍹
 
 ### Recent Contracted Projects
 
@@ -81,6 +81,8 @@ I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resour
 
 ## 📃 About Me
 
+Check out my [Wiki](https://youneedawiki.com/app/page/1NIm8iRFF1MEU68GZkar-7ZKhIzTv8MwTKuxeft92kFI?p=1j6vUn9RcB_NTcr1iP0Dc9sLN53Xf_Ah8) where I keep a running list of resources for folks getting into tech.
+
 ### Blogs
 
 - Code School Survival Tract, 2021 on [Medium](https://danitcodes.medium.com/code-school-survival-tract-9930cab2f9a8)
@@ -88,18 +90,19 @@ I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resour
 
 ### Speaking Engagements
 
-- (upcoming) Speaker at [ChickTech + ACT-W Virtual Conference](https://act-w.org/conference/), August 30 – September 1, 2022, "From Bartender to Software Engineer - How I Went from Slinging Drinks to Coding for a Living at 30"
-- On ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social) weekly at 12pm ish (PT) on Fridays <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a>, on 'Code School Q&A' aimed at supporting coding school students and recent grads working to get into the tech industry.
+- Speaker at [ChickTech + ACT-W Virtual Conference](https://act-w.org/conference/), August 30 – September 1, 2022, "From Bartender to Software Engineer - How I Went from Slinging Drinks to Coding for a Living at 30" | <[Slides](https://docs.google.com/presentation/d/1N7heq46MWIX6_4IldY8jGw1cdMYSWCjIQE4JjOrOJWU/edit?usp=sharing)>
+- On ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social). Soon to be back online on Sundays at <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a> with the 'Code School Q&A' crew, where we support coding school students and recent grads working to get into the tech industry.
 - Launchies podcast, Episode 041, posted Dec 15, 2021, "Googling and Self-Teaching – Attend Code School Q&A with Danielle Thompson" [Listen Here!](https://dev.to/newrelic/googling-and-self-teaching-attend-code-school-qa-with-danielle-thompson-3gce)
 - Greater Than Code podcast, Oct 13, 2021, "Transitioning into Tech" [Listen Here!](https://www.greaterthancode.com/transitioning-into-tech)
 - July 21, 2021, 10:00AM (PST): DEV,to Twitch Stream [Watch Here!](https://www.youtube.com/watch?v=ha691P-bA58)
-- July 20, 2021, 12:00PM - 1:00 PM (PST): PDXWIT Happy (Lunch) Hour - First Gen in Tech, Lightning Speaker / [Link](https://www.pdxwit.org/upcoming-events/2021/7/20/july-happy-hour-first-gen-in-tech)
+- July 20, 2021, 12:00PM - 1:00 PM (PST): PDXWIT Happy (Lunch) Hour - First Gen in Tech, Lightning Speaker | [Link](https://www.pdxwit.org/upcoming-events/2021/7/20/july-happy-hour-first-gen-in-tech)
 - July 14, 2021, 12:00PM - 1:00PM (PST): Epicodus Alumni Internship Experience Panel
 - January 21, 2021, 12:00PM - 1:00PM (PST): Epicodus Upper Cohort Peer Mentor Lunch Talk
 
 ### Recent Conferences
 
-- (upcoming) June 15-16, 2022, (virtual) [RailsConf: Home Edition](https://railsconf.org/register-virtual)
+- (upcoming) Nov 29-Dec 1, 2022 (IRL) [RubyConf](https://rubyconf.org/)
+- Aug 11-14, 2022, (IRL) [DEFCON30](https://defcon.org/html/defcon-30/dc-30-index.html)
 - May 17-19, 2022, (IRL) [RailsConf](https://railsconf.org/) In-Person
 - May 25-27, 2021, (virtual) New Relic's [FutureStack](https://newrelic.com/futurestack)
 - June 8, 2021, (virtual) Applitools + Cypress present [Front-end Test Fest](https://frontendtestfest.com/)
@@ -109,6 +112,7 @@ I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resour
 
 ### 📚 Recent Reading
 
+- The Memory Police by [Yoko Ogawa](https://www.goodreads.com/author/show/42775.Y_ko_Ogawa)
 - Algorithms of Oppression by [Safiya Noble](http://algorithmsofoppression.com/)
 - The Tangled Web: A Guide to Securing Modern Web Applications by [Michal Zalewski](https://www.oreilly.com/library/view/the-tangled-web/9781593273880/)
 - Mexican Gothic by [Silvia Moreno-Garcia](https://silviamoreno-garcia.com/)
@@ -126,9 +130,8 @@ I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resour
 ### 🤩 Yes, that
 
 - Thorough, clear documentation
-- Checklists
-- Design systems
-- REPL-driven & Test-driven development
+- All the Checklists™️
+- REPL-driven, Test-driven, & README-driven development
 
 ### 📫 Connect
 
