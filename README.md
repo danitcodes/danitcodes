@@ -68,30 +68,12 @@ I am a Ruby/Rails Junior Software Engineer at an ed-tech company, [Open Up Resou
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+</div>
+
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danitcodes&show_icons=true&layout=compact&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" />
  -->
 
 <br />
-
-### 💡 Learning Platform Coding Stats
-
-|  💡 _Coding Stats_ 💡 	|   Site	|   Rank 	|   Points 	|   Technologies 	|
-|:-:	|:-:	|:-:	|:-:	|:-:	|
-|  1 	|  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/danitcodes)  |  <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />	|   	| JavaScript 	|
-|  2 	|   [Edabit](https://edabit.com/user/NPPFh5vCtYrQREYaC)	  |  Level 4 	|  335XP 	|  JavaScript, Ruby, C# 	|
-|  3 	|   [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.io/profiles/danitcodes)	  |  	|  14rep 	|  Ruby, JavaScript 	|
-|  4 	|   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/danitcodes/)	  |  	|   	|  Ruby, JavaScript 	|
-
-<br />
-
-<!-- **Incoming Stats** <br />
- <br />
-[Hacker Rank](https://www.hackerrank.com/danithompson74)![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)<br />
- <br />
-<br />
-<br /> -->
-
-</div>
 
 ## 📊 Work
 
@@ -125,7 +107,7 @@ I am a Ruby/Rails Junior Software Engineer at an ed-tech company, [Open Up Resou
 
 ---
 
-- Front-end development for [GiftRibbn.io](https://www.instagram.com/giftribbn/).
+- Front-end development for [GiftRibbn](https://www.giftribbn.com/).
   - _Highlights_: React, UX/UI design, C# API and database back-end connections, JWT authorization & authentication, hospitality, e-commerce.
 
 <!-- - _Coming soon_ Website redesign/feature add-ons for the following local Portland businesses:
@@ -191,6 +173,26 @@ I am a Ruby/Rails Junior Software Engineer at an ed-tech company, [Open Up Resou
 - Thorough, clear documentation
 - All the Checklists™️
 - REPL-driven, Test-driven, & README-driven development
+
+---
+
+### 💡 Learning Platform Coding Stats
+
+|  💡 _Coding Stats_ 💡 	|   Site	|   Rank 	|   Points 	|   Technologies 	|
+|:-:	|:-:	|:-:	|:-:	|:-:	|
+|  1 	|  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/danitcodes)  |  <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />	|   	| JavaScript 	|
+|  2 	|   [Edabit](https://edabit.com/user/NPPFh5vCtYrQREYaC)	  |  Level 4 	|  335XP 	|  JavaScript, Ruby, C# 	|
+|  3 	|   [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.io/profiles/danitcodes)	  |  	|  14rep 	|  Ruby, JavaScript 	|
+|  4 	|   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/danitcodes/)	  |  	|   	|  Ruby, JavaScript 	|
+
+<br />
+
+<!-- **Incoming Stats** <br />
+ <br />
+[Hacker Rank](https://www.hackerrank.com/danithompson74)![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)<br />
+ <br />
+<br />
+<br /> -->
 
 ---
 
