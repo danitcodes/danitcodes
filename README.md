@@ -2,30 +2,92 @@
 
 # Welcome! I'm Danielle.
 
+## **Find _all_ my important links on my [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/danitcodes)!**
+
+<br />
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=danitcodes&show_icons=true&icon_color=000080&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" />
 
 <br />
+
+### 📙 Overview
+
+I am a Ruby/Rails Junior Software Engineer at an ed-tech company, [Open Up Resources](https://www.openupresources.org/), that is working to increase equity in education by making high-quality curriculum openly available. Before taking this position, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/), was a contract junior developer for [GiftRibbn](https://www.ribbn.io/), and graduated from a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Code School in Portland, OR.
+
+</div>
+
 <br />
 
-I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resources](https://www.openupresources.org/), that is working to increase equity in education by making high-quality curriculum openly available. Before taking this position, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/), was a junior software developer for [GiftRibbn](https://www.ribbn.io/), and graduated from a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Code School in Portland, OR.
+- Pronouns: **she/her, they/them**
+- 📙 Check out my [Wiki](https://youneedawiki.com/app/page/1NIm8iRFF1MEU68GZkar-7ZKhIzTv8MwTKuxeft92kFI?p=1j6vUn9RcB_NTcr1iP0Dc9sLN53Xf_Ah8) where I keep a running list of resources for folks getting into tech.
+- 🌱 I’m currently learning ... ⚡ Ruby/Rails #forever ❤️ ⚡
+- ❓ Ask me about ... getting into tech from non-traditional backgrounds and craft cocktails! 🍹
+- 👣 Next steps for me ... more community engagement and giving tech talks! 🦾
 
 <br />
+
+<div align="center">
+
+### 💻 Current Tech Stack
+
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+
+</div>
+
+<div align="center">
+
+### 💻 Previously Used Tech
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danitcodes&show_icons=true&layout=compact&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" />
  -->
 
-|  _Coding Stats_ 	|   Site	|   Rank 	|   Points 	|   Technologies 	|
+<br />
+
+### 💡 Learning Platform Coding Stats
+
+|  💡 _Coding Stats_ 💡 	|   Site	|   Rank 	|   Points 	|   Technologies 	|
 |:-:	|:-:	|:-:	|:-:	|:-:	|
-|  1 	|  [CodeWars](https://www.codewars.com/users/danitcodes)  |  <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />	|   	|JavaScript 	|
+|  1 	|  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/danitcodes)  |  <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />	|   	| JavaScript 	|
 |  2 	|   [Edabit](https://edabit.com/user/NPPFh5vCtYrQREYaC)	  |  Level 4 	|  335XP 	|  JavaScript, Ruby, C# 	|
-|  3 	|   [Exercism](https://exercism.io/profiles/danitcodes)	  |  N/A	|  14rep 	|  Ruby, JavaScript 	|
+|  3 	|   [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.io/profiles/danitcodes)	  |  	|  14rep 	|  Ruby, JavaScript 	|
+|  4 	|   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/danitcodes/)	  |  	|   	|  Ruby, JavaScript 	|
 
 <br />
 
 <!-- **Incoming Stats** <br />
  <br />
-|   	|   [LeetCode](https://leetcode.com/danitcodes/)	  |  N/A 	|  66 	|  JavaScript 	|
-[Hacker Rank](https://www.hackerrank.com/danithompson74) <br />
+[Hacker Rank](https://www.hackerrank.com/danithompson74)![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)<br />
  <br />
 <br />
 <br /> -->
@@ -34,14 +96,7 @@ I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resour
 
 ## 📊 Work
 
-### 📙 Overview
-
-- Pronouns: **she/her, they/them**
-- 🌱 I’m currently learning ... ⚡ Ruby/Rails #forever ❤️ ⚡
-- 👣 Next steps for me ... second year as full-time software developer! 🦾
-- 💬 Ask me about ... getting into tech from non-traditional backgrounds, or craft cocktails! 🍹
-
-### Recent Contracted Projects
+### Previous Contracted Projects
 
 - Redesign of and feature additions to the non-profit [NSBE Pro-PDX's](https://www.nsbepropdx.org/) site.
   - _Highlights_: Added a job board, a paid subscription service, a blog, media, and more thorough copywriting content; SEO; Wix content management system; improved security with CAPTCHA forms; improved donation portals with Donorbox; UX/UI redesign for web and mobile experiences; created "how-to" documentation for internal and external use; improved back-end connections to PayPal and MailChimp.
@@ -79,36 +134,37 @@ I am a full-time Junior Software Engineer at an ed-tech company, [Open Up Resour
   - FLi Social
   - Professional portfolios & content creator sites for PDX STEM professionals. -->
 
-## 📃 About Me
+## 👯 Community Engagement
 
-Check out my [Wiki](https://youneedawiki.com/app/page/1NIm8iRFF1MEU68GZkar-7ZKhIzTv8MwTKuxeft92kFI?p=1j6vUn9RcB_NTcr1iP0Dc9sLN53Xf_Ah8) where I keep a running list of resources for folks getting into tech.
-
-### Blogs
+### 📝 Blogs
 
 - Code School Survival Tract, 2021 on [Medium](https://danitcodes.medium.com/code-school-survival-tract-9930cab2f9a8)
 - NSBE Pro-PDX Gets its First Interns, 2021 on [NSBE Pro-PDX](https://www.nsbepropdx.org/post/nsbe-pro-pdx-gets-its-first-interns)
 
-### Speaking Engagements
+### 🎤 Speaking Engagements
 
-- Speaker at [ChickTech + ACT-W Virtual Conference](https://act-w.org/conference/), August 30 – September 1, 2022, "From Bartender to Software Engineer - How I Went from Slinging Drinks to Coding for a Living at 30" | <[Slides](https://docs.google.com/presentation/d/1N7heq46MWIX6_4IldY8jGw1cdMYSWCjIQE4JjOrOJWU/edit?usp=sharing)>
-- On ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social). Soon to be back online on Sundays at <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a> with the 'Code School Q&A' crew, where we support coding school students and recent grads working to get into the tech industry.
+- Speaker at [ChickTech + ACT-W Virtual Conference](https://act-w.org/conference/), August 30 – September 1, 2022, "From Bartender to Software Engineer - How I Went from Slinging Drinks to Coding for a Living at 30" | <[Slides](https://docs.google.com/presentation/d/1N7heq46MWIX6_4IldY8jGw1cdMYSWCjIQE4JjOrOJWU/edit?usp=sharing)> | [Watch Here!](https://www.youtube.com/watch?v=b22lVZttzLw)
+- On ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social). Soon to be back online in October on Sundays ~11:30am PT at <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a> with the 'Code School Q&A' crew, where we support folx interested in software, code school students, and recent grads working to get into the tech industry.
 - Launchies podcast, Episode 041, posted Dec 15, 2021, "Googling and Self-Teaching – Attend Code School Q&A with Danielle Thompson" [Listen Here!](https://dev.to/newrelic/googling-and-self-teaching-attend-code-school-qa-with-danielle-thompson-3gce)
 - Greater Than Code podcast, Oct 13, 2021, "Transitioning into Tech" [Listen Here!](https://www.greaterthancode.com/transitioning-into-tech)
 - July 21, 2021, 10:00AM (PST): DEV,to Twitch Stream [Watch Here!](https://www.youtube.com/watch?v=ha691P-bA58)
-- July 20, 2021, 12:00PM - 1:00 PM (PST): PDXWIT Happy (Lunch) Hour - First Gen in Tech, Lightning Speaker | [Link](https://www.pdxwit.org/upcoming-events/2021/7/20/july-happy-hour-first-gen-in-tech)
-- July 14, 2021, 12:00PM - 1:00PM (PST): Epicodus Alumni Internship Experience Panel
-- January 21, 2021, 12:00PM - 1:00PM (PST): Epicodus Upper Cohort Peer Mentor Lunch Talk
+- July 20, 2021, 12:00PM – 1:00 PM (PST): PDXWIT Happy (Lunch) Hour - First Gen in Tech, Lightning Speaker | [Link](https://www.pdxwit.org/upcoming-events/2021/7/20/july-happy-hour-first-gen-in-tech)
+- July 14, 2021, 12:00PM – 1:00PM (PST): Epicodus Alumni Internship Experience Panel
+- January 21, 2021, 12:00PM – 1:00PM (PST): Epicodus Upper Cohort Peer Mentor Lunch Talk
 
-### Recent Conferences
+### 👯 Recent Conferences
 
-- (upcoming) Nov 29-Dec 1, 2022 (IRL) [RubyConf](https://rubyconf.org/)
-- Aug 11-14, 2022, (IRL) [DEFCON30](https://defcon.org/html/defcon-30/dc-30-index.html)
-- May 17-19, 2022, (IRL) [RailsConf](https://railsconf.org/) In-Person
-- May 25-27, 2021, (virtual) New Relic's [FutureStack](https://newrelic.com/futurestack)
+- (upcoming) Nov 29–Dec 1, 2022 (IRL) [RubyConf](https://rubyconf.org/)
+- Aug 30–Sep 1, 2022 (virtual) [ChickTech + ACT-W Virtual Conference](https://act-w.org/conference/)
+- Aug 11–14, 2022, (IRL) [DEFCON30](https://defcon.org/html/defcon-30/dc-30-index.html)
+- May 17–19, 2022, (IRL) [RailsConf](https://railsconf.org/) In-Person
+- May 25–27, 2021, (virtual) New Relic's [FutureStack](https://newrelic.com/futurestack)
 - June 8, 2021, (virtual) Applitools + Cypress present [Front-end Test Fest](https://frontendtestfest.com/)
-- June 7-11, 2021 (virtual) [Treehouse Festival](https://hopin.com/events/treehouse-festival-fab8e43e-1fc8-4c99-8335-c42e6d021762)
-- June 10 & 11 (virtual) [CONNECT REIMAGINE 2021](https://connectreimagine.womenwhocode.dev/) by Women Who Code
-- Aug 5-8, 2021, (IRL) [DEFCON29](https://www.defcon.org/html/defcon-29/dc-29-index.html)
+- June 7–11, 2021 (virtual) [Treehouse Festival](https://hopin.com/events/treehouse-festival-fab8e43e-1fc8-4c99-8335-c42e6d021762)
+- June 10–11 (virtual) [CONNECT REIMAGINE 2021](https://connectreimagine.womenwhocode.dev/) by Women Who Code
+- Aug 5–8, 2021, (IRL) [DEFCON29](https://www.defcon.org/html/defcon-29/dc-29-index.html)
+
+## 💭 A Little Bit About Me
 
 ### 📚 Recent Reading
 
@@ -125,7 +181,7 @@ Check out my [Wiki](https://youneedawiki.com/app/page/1NIm8iRFF1MEU68GZkar-7ZKhI
 - [Greater Than Code](https://www.greaterthancode.com/) --> "the human side of technology"
 - [Code Switch](https://www.npr.org/podcasts/510312/codeswitch) from NPR --> _not_ technical; talks on race & culture
 - [My Favorite Murder](https://myfavoritemurder.com/episodes) --> 🕵 comedy meets true crime 🕵
-- [Murder Squad](http://themurdersquad.com/) --> 🕵️ cold case investigator & investigative journalist team up to solve true crime 🕵️
+- [The Rewatchables](https://www.theringer.com/the-rewatchables) --> 🎬? fun conversation about all sorts of rewatchable movies 🎬
 
 ### 🤩 Yes, that
 
@@ -133,19 +189,21 @@ Check out my [Wiki](https://youneedawiki.com/app/page/1NIm8iRFF1MEU68GZkar-7ZKhI
 - All the Checklists™️
 - REPL-driven, Test-driven, & README-driven development
 
+---
+
 ### 📫 Connect
+
 
 <a href="https://www.linkedin.com/in/danielle-thompson74"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="https://dev.to/danitcodes"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Danielle Thompson's DEV Community Profile" height="30" width="30"></a>
 <a href="https://danitcodes.medium.com/"><img alt="Danielle Thompson's Medium Profile" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 <a href=https://open.spotify.com/user/1264447945/ ><img alt="Danielle Thompson's Spotify Profile" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/danitcodes?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/danitcodes?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social)
 
-<img src="assets/TwitchStream.png" alt="screenshot of Code School Q&A Twitch stream" height="300px" width="auto">
-
 <div align="center">
+
+<img src="assets/TwitchStream.png" alt="screenshot of Code School Q&A Twitch stream" height="300px" width="auto">
 
 </div>
