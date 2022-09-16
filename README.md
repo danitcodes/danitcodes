@@ -6,7 +6,6 @@
 
 <br />
 
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=danitcodes&show_icons=true&icon_color=000080&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" />
 
 <br />
@@ -134,6 +133,8 @@ I am a Ruby/Rails Junior Software Engineer at an ed-tech company, [Open Up Resou
   - FLi Social
   - Professional portfolios & content creator sites for PDX STEM professionals. -->
 
+---
+
 ## 👯 Community Engagement
 
 ### 📝 Blogs
@@ -163,6 +164,8 @@ I am a Ruby/Rails Junior Software Engineer at an ed-tech company, [Open Up Resou
 - June 7–11, 2021 (virtual) [Treehouse Festival](https://hopin.com/events/treehouse-festival-fab8e43e-1fc8-4c99-8335-c42e6d021762)
 - June 10–11 (virtual) [CONNECT REIMAGINE 2021](https://connectreimagine.womenwhocode.dev/) by Women Who Code
 - Aug 5–8, 2021, (IRL) [DEFCON29](https://www.defcon.org/html/defcon-29/dc-29-index.html)
+
+---
 
 ## 💭 A Little Bit About Me
 
