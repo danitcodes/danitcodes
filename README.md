@@ -121,7 +121,8 @@ I am a Ruby/Rails Junior Software Engineer at an ed-tech company, [Open Up Resou
 
 ### 📝 Blogs
 
-- Code School Survival Tract, 2021 on [Medium](https://danitcodes.medium.com/code-school-survival-tract-9930cab2f9a8)
+- Getting Better at PRs and Code Reviews as a Junior Developer, 2022 on [Dev.to](https://dev.to/danitcodes/getting-better-at-prs-and-code-reviews-as-a-junior-developer-1i9a)
+- Code School Survival Tract, 2021; included in [Epicodus](https://www.epicodus.com/) Code School's [curriculum](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/making-the-most-of-code-school) and on [Medium](https://danitcodes.medium.com/code-school-survival-tract-9930cab2f9a8)
 - NSBE Pro-PDX Gets its First Interns, 2021 on [NSBE Pro-PDX](https://www.nsbepropdx.org/post/nsbe-pro-pdx-gets-its-first-interns)
 
 ### 🎤 Speaking Engagements
