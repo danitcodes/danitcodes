@@ -77,7 +77,7 @@ I am a Ruby/Rails Junior Software Engineer at an ed-tech company, [Open Up Resou
 
 ## 📊 Work
 
-### Previous Contracted Projects
+### Previously Contracted Projects
 
 - Redesign of and feature additions to the non-profit [NSBE Pro-PDX's](https://www.nsbepropdx.org/) site.
   - _Highlights_: Added a job board, a paid subscription service, a blog, media, and more thorough copywriting content; SEO; Wix content management system; improved security with CAPTCHA forms; improved donation portals with Donorbox; UX/UI redesign for web and mobile experiences; created "how-to" documentation for internal and external use; improved back-end connections to PayPal and MailChimp.
@@ -119,8 +119,14 @@ I am a Ruby/Rails Junior Software Engineer at an ed-tech company, [Open Up Resou
 
 ## 👯 Community Engagement
 
+### Volunteering
+
+- Ongoing community content proofreading and resume reviews for [Virtual Coffee](virtualcoffee.io)
+- RubyConf Nov 2022 Volunteer
+
 ### 📝 Blogs
 
+- Getting Better at Recognizing your Accomplishments as a Junior Developer (and Beyond), 2022 on [dev.to]()
 - Getting Better at PRs and Code Reviews as a Junior Developer, 2022 on [Dev.to](https://dev.to/danitcodes/getting-better-at-prs-and-code-reviews-as-a-junior-developer-1i9a)
 - Code School Survival Tract, 2021; included in [Epicodus](https://www.epicodus.com/) Code School's [curriculum](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/making-the-most-of-code-school) and on [Medium](https://danitcodes.medium.com/code-school-survival-tract-9930cab2f9a8)
 - NSBE Pro-PDX Gets its First Interns, 2021 on [NSBE Pro-PDX](https://www.nsbepropdx.org/post/nsbe-pro-pdx-gets-its-first-interns)
