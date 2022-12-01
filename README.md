@@ -133,7 +133,7 @@ I am a Ruby/Rails Junior Software Engineer at an ed-tech company, [Open Up Resou
 
 ### 🎤 Speaking Engagements
 
-- Speaker at [ChickTech + ACT-W Virtual Conference](https://act-w.org/conference/), August 30 – September 1, 2022, "From Bartender to Software Engineer - How I Went from Slinging Drinks to Coding for a Living at 30" | <[Slides](https://docs.google.com/presentation/d/1N7heq46MWIX6_4IldY8jGw1cdMYSWCjIQE4JjOrOJWU/edit?usp=sharing)> | [Watch Here!](https://www.youtube.com/watch?v=b22lVZttzLw)
+- Speaker at [ChickTech + ACT-W Virtual Conference](https://act-w.org/conference/), August 30 – September 1, 2022, "From Bartender to Software Engineer - How I Went from Slinging Drinks to Coding for a Living at 30" | <[Slides](https://docs.google.com/presentation/d/1N7heq46MWIX6_4IldY8jGw1cdMYSWCjIQE4JjOrOJWU/edit?usp=sharing)> | [Watch Here!](https://vimeo.com/747908563/4f7ecd26b5)
 - On ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social). Soon to be back online in October on Sundays ~11:30am PT at <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a> with the 'Code School Q&A' crew, where we support folx interested in software, code school students, and recent grads working to get into the tech industry.
 - Launchies podcast, Episode 041, posted Dec 15, 2021, "Googling and Self-Teaching – Attend Code School Q&A with Danielle Thompson" [Listen Here!](https://dev.to/newrelic/googling-and-self-teaching-attend-code-school-qa-with-danielle-thompson-3gce)
 - Greater Than Code podcast, Oct 13, 2021, "Transitioning into Tech" [Listen Here!](https://www.greaterthancode.com/transitioning-into-tech)
