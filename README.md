@@ -4,8 +4,6 @@
 
 ## **Find _all_ my important links on my [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/danitcodes)!**
 
-<br />
-
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=danitcodes&show_icons=true&icon_color=000080&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" /> -->
 
 <br />
