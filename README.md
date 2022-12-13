@@ -6,13 +6,13 @@
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=danitcodes&show_icons=true&icon_color=000080&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=danitcodes&show_icons=true&icon_color=000080&title_color=000080&border_color=FFFFFF&text_color=FFFFFF&bg_color=90deg,BF5A62,A6537A,904E95" /> -->
 
 <br />
 
 ### 📙 Overview
 
-I am a Ruby/Rails Junior Software Engineer at an ed-tech company, [Open Up Resources](https://www.openupresources.org/), that is working to increase equity in education by making high-quality curriculum openly available. Before taking this position, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/), was a contract junior developer for [GiftRibbn](https://www.ribbn.io/), and graduated from a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Code School in Portland, OR.
+I am a Ruby/Rails-focused Junior Software Engineer at an ed-tech company, [Open Up Resources](https://www.openupresources.org/), that is working to increase equity in education by making high-quality curriculum openly available. Before taking this position, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/), was a contract junior developer for [GiftRibbn](https://www.ribbn.io/), and graduated from a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Code School in Portland, OR.
 
 </div>
 
@@ -121,20 +121,23 @@ I am a Ruby/Rails Junior Software Engineer at an ed-tech company, [Open Up Resou
 
 ### Volunteering
 
+- Epicodus Mentor 2022-present: ongoing professional & technical mentorship, career services, & moral support for current students working to transition into tech
 - Ongoing community content proofreading and resume reviews for [Virtual Coffee](virtualcoffee.io)
-- RubyConf Nov 2022 Volunteer
+- RubyConf Houston, Nov-Dec 2022 Volunteer
+- Epicodus Peer Mentor, 2020-2021
 
 ### 📝 Blogs
 
-- Getting Better at Recognizing your Accomplishments as a Junior Developer (and Beyond), 2022 on [dev.to]()
-- Getting Better at PRs and Code Reviews as a Junior Developer, 2022 on [Dev.to](https://dev.to/danitcodes/getting-better-at-prs-and-code-reviews-as-a-junior-developer-1i9a)
-- Code School Survival Tract, 2021; included in [Epicodus](https://www.epicodus.com/) Code School's [curriculum](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/making-the-most-of-code-school) and on [Medium](https://danitcodes.medium.com/code-school-survival-tract-9930cab2f9a8)
-- NSBE Pro-PDX Gets its First Interns, 2021 on [NSBE Pro-PDX](https://www.nsbepropdx.org/post/nsbe-pro-pdx-gets-its-first-interns)
+- _#GettingBetter at at Interviews: Important Q's to Ask During your Developer Job Interview_, 2022 on [dev.to](https://dev.to/danitcodes/important-qs-to-ask-during-your-junior-developer-job-interview-844)
+- _#GettingBetter at Recognizing your Accomplishments as a Junior Developer (and Beyond)_, 2022 on [dev.to](https://dev.to/danitcodes/getting-better-at-recognizing-your-accomplishments-as-junior-developer-and-beyond-4goa)
+- _#GettingBetter at PRs and Code Reviews as a Junior Developer_, 2022 on [Dev.to](https://dev.to/danitcodes/getting-better-at-prs-and-code-reviews-as-a-junior-developer-1i9a)
+- _Code School Survival Tract_, 2021; included in [Epicodus](https://www.epicodus.com/) Code School's [curriculum](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/making-the-most-of-code-school) and on [Medium](https://danitcodes.medium.com/code-school-survival-tract-9930cab2f9a8)
+- _NSBE Pro-PDX Gets its First Interns_, 2021 on [NSBE Pro-PDX](https://www.nsbepropdx.org/post/nsbe-pro-pdx-gets-its-first-interns)
 
 ### 🎤 Speaking Engagements
 
 - Speaker at [ChickTech + ACT-W Virtual Conference](https://act-w.org/conference/), August 30 – September 1, 2022, "From Bartender to Software Engineer - How I Went from Slinging Drinks to Coding for a Living at 30" | <[Slides](https://docs.google.com/presentation/d/1N7heq46MWIX6_4IldY8jGw1cdMYSWCjIQE4JjOrOJWU/edit?usp=sharing)> | [Watch Here!](https://vimeo.com/747908563/4f7ecd26b5)
-- On ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social). Soon to be back online in October on Sundays ~11:30am PT at <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a> with the 'Code School Q&A' crew, where we support folx interested in software, code school students, and recent grads working to get into the tech industry.
+- On ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social). Formerly streaming at <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a> with the 'Code School Q&A' crew, where we supported folx interested in software, code school students, and recent grads working to get into the tech industry.
 - Launchies podcast, Episode 041, posted Dec 15, 2021, "Googling and Self-Teaching – Attend Code School Q&A with Danielle Thompson" [Listen Here!](https://dev.to/newrelic/googling-and-self-teaching-attend-code-school-qa-with-danielle-thompson-3gce)
 - Greater Than Code podcast, Oct 13, 2021, "Transitioning into Tech" [Listen Here!](https://www.greaterthancode.com/transitioning-into-tech)
 - July 21, 2021, 10:00AM (PST): DEV,to Twitch Stream [Watch Here!](https://www.youtube.com/watch?v=ha691P-bA58)
@@ -144,7 +147,7 @@ I am a Ruby/Rails Junior Software Engineer at an ed-tech company, [Open Up Resou
 
 ### 👯 Recent Conferences
 
-- (upcoming) Nov 29–Dec 1, 2022 (IRL) [RubyConf](https://rubyconf.org/)
+- Nov 29–Dec 1, 2022 (IRL) [RubyConf](https://rubyconf.org/)
 - Aug 30–Sep 1, 2022 (virtual) [ChickTech + ACT-W Virtual Conference](https://act-w.org/conference/)
 - Aug 11–14, 2022, (IRL) [DEFCON30](https://defcon.org/html/defcon-30/dc-30-index.html)
 - May 17–19, 2022, (IRL) [RailsConf](https://railsconf.org/) In-Person
