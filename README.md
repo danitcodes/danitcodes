@@ -127,7 +127,7 @@ I am a Ruby/Rails-focused Junior Software Engineer at an ed-tech company, [Open 
 
 ### 📝 Blogs
 
-- _#GettingBetter at at Interviews: Important Q's to Ask During your Developer Job Interview_, 2022 on [dev.to](https://dev.to/danitcodes/important-qs-to-ask-during-your-junior-developer-job-interview-844)
+- _#GettingBetter at Interviews: Important Q's to Ask During your Developer Job Interview_, 2022 on [dev.to](https://dev.to/danitcodes/important-qs-to-ask-during-your-junior-developer-job-interview-844)
 - _#GettingBetter at Recognizing your Accomplishments as a Junior Developer (and Beyond)_, 2022 on [dev.to](https://dev.to/danitcodes/getting-better-at-recognizing-your-accomplishments-as-junior-developer-and-beyond-4goa)
 - _#GettingBetter at PRs and Code Reviews as a Junior Developer_, 2022 on [Dev.to](https://dev.to/danitcodes/getting-better-at-prs-and-code-reviews-as-a-junior-developer-1i9a)
 - _Code School Survival Tract_, 2021; included in [Epicodus](https://www.epicodus.com/) Code School's [curriculum](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/making-the-most-of-code-school) and on [Medium](https://danitcodes.medium.com/code-school-survival-tract-9930cab2f9a8)
