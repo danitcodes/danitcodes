@@ -119,6 +119,7 @@ I am a Ruby/Rails-focused Junior Software Engineer at an ed-tech company, [Open 
 
 ### Volunteering
 
+- **RailsConf 2023 Program Committee: curating the tracks and talks for the largest, longest running gathering of Rails developers in the world.**
 - Epicodus Mentor 2022-present: ongoing professional & technical mentorship, career services, & moral support for current students working to transition into tech
 - Ongoing community content proofreading and resume reviews for [Virtual Coffee](virtualcoffee.io)
 - RubyConf Houston, Nov-Dec 2022 Volunteer
