@@ -10,7 +10,7 @@
 
 ### 📙 Overview
 
-I am a Ruby/Rails-focused Software Engineer at an ed-tech company, [Open Up Resources](https://www.openupresources.org/), that is working to increase equity in education by making high-quality curriculum openly available. Before taking this position, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/), was a contract junior developer for [GiftRibbn](https://www.ribbn.io/), and graduated from a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Code School in Portland, OR.
+I am a Ruby/Rails-focused Software Engineer at an ed-tech company, [Open Up Resources](https://www.openupresources.org/), and am currently serving on the RailsConf 2023 Program Committee. Before taking my current developer role, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/), was a contract junior developer for [GiftRibbn](https://www.ribbn.io/), and graduated from a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Code School in Portland, OR.
 
 </div>
 
@@ -122,7 +122,7 @@ I am a Ruby/Rails-focused Software Engineer at an ed-tech company, [Open Up Reso
 - **RailsConf 2023 Program Committee: curating the tracks and talks for the largest, longest running gathering of Rails developers in the world.**
 - Epicodus Mentor 2023-present: ongoing professional & technical mentorship, career services, & moral support for current students working to transition into tech
 - Ongoing community content proofreading and resume reviews for [Virtual Coffee](virtualcoffee.io)
-- RubyConf Houston, Nov-Dec 2022 Volunteer
+- RubyConf Houston Volunteer, 2022
 - Epicodus Peer Mentor, 2020-2021
 
 ### 📝 Blogs
@@ -174,17 +174,8 @@ I am a Ruby/Rails-focused Software Engineer at an ed-tech company, [Open Up Reso
 
 - [Ladybug Podcast](https://www.ladybug.dev/episodes) --> ⚡ software developer gold ⚡
 - [Greater Than Code](https://www.greaterthancode.com/) --> "the human side of technology"
-- [Code Switch](https://www.npr.org/podcasts/510312/codeswitch) from NPR --> _not_ technical; talks on race & culture
-- [My Favorite Murder](https://myfavoritemurder.com/episodes) --> 🕵 comedy meets true crime 🕵
+- [Code Switch](https://www.npr.org/podcasts/510312/codeswitch) from NPR --> _not_ programming related, but rather, talks on race & culture
 - [The Rewatchables](https://www.theringer.com/the-rewatchables) --> 🎬? fun conversation about all sorts of rewatchable movies 🎬
-
-### 🤩 Yes, that
-
-- Thorough, clear documentation
-- All the Checklists™️
-- REPL-driven, Test-driven, & README-driven development
-
----
 
 ### 💡 Learning Platform Coding Stats
 
