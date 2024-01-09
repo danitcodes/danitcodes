@@ -18,9 +18,9 @@ I am a Ruby/Rails-focused Software Engineer at an ed-tech company, [Open Up Reso
 
 - Pronouns: **she/her, they/them**
 - 📙 Check out my [Wiki](https://youneedawiki.com/app/page/1NIm8iRFF1MEU68GZkar-7ZKhIzTv8MwTKuxeft92kFI?p=1j6vUn9RcB_NTcr1iP0Dc9sLN53Xf_Ah8) where I keep a running list of resources for folks getting into tech.
-- 🌱 I’m currently learning ... ⚡ Ruby/Rails #forever ❤️ ⚡
+- 🌱 I’m currently deep diving into ... ⚡ Ruby/Rails #forever ❤️ ⚡
 - ❓ Ask me about ... getting into tech from non-traditional backgrounds and craft cocktails! 🍹
-- 👣 Next steps for me ... more community engagement and giving tech talks! 🦾
+- 👣 Next steps for me ... continued community engagement and tech talks! 🦾
 
 <br />
 
