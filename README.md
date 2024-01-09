@@ -10,7 +10,7 @@
 
 ### 📙 Overview
 
-I am a Ruby/Rails-focused Software Engineer at an ed-tech company, [Open Up Resources](https://www.openupresources.org/), and am currently serving on the RailsConf 2023 Program Committee. Before taking my current developer role, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/), was a contract junior developer for [GiftRibbn](https://www.ribbn.io/), and graduated from a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Code School in Portland, OR.
+I am a Ruby/Rails-focused Software Engineer at an ed-tech company, [Open Up Resources](https://www.openupresources.org/). Before taking my current developer role, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/), was a contract junior developer for [GiftRibbn](https://www.ribbn.io/), and graduated from a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Code School in Portland, OR. Since getting into tech, I have written several blogs, been on a guest several podcasts and tech Twitch streams, volunteered at RubyConf 2022 and served on RailsConf 2023 Program Committee, and I continue to look for ways to engage in the Ruby/Rails and broader technical community.
 
 </div>
 
@@ -119,8 +119,9 @@ I am a Ruby/Rails-focused Software Engineer at an ed-tech company, [Open Up Reso
 
 ### Volunteering
 
+- DEFCON 2023-present Inhuman Registration Volunteer: registration operations and support for Inhuman Registration (i.e. anyone not in the general public; includes 550+ DEFCON staff, as well as press, vendors, etc.)
 - **RailsConf 2023 Program Committee: curating the tracks and talks for the largest, longest running gathering of Rails developers in the world.**
-- Epicodus Mentor 2023-present: ongoing professional & technical mentorship, career services, & moral support for current students working to transition into tech
+- Epicodus Mentor 2023-present: ongoing professional & technical mentorship via Lunch Talks for current students working to transition into tech
 - Ongoing community content proofreading and resume reviews for [Virtual Coffee](virtualcoffee.io)
 - RubyConf Houston Volunteer, 2022
 - Epicodus Peer Mentor, 2020-2021
@@ -136,6 +137,8 @@ I am a Ruby/Rails-focused Software Engineer at an ed-tech company, [Open Up Reso
 ### 🎤 Speaking Engagements
 
 - March 8, 2023, 12:00PM - 1:00PM (PST): Epicodus Lunch Guest Speaker
+- March 8, 2023, 12:00PM - 1:00PM (PST): Epicodus Lunch Guest Speaker
+- April 26, 2023 1:30PM - 3:30PM (EST): MC for RailsConf Lightning Talks
 - Speaker at [ChickTech + ACT-W Virtual Conference](https://act-w.org/conference/), August 30 – September 1, 2022, "From Bartender to Software Engineer - How I Went from Slinging Drinks to Coding for a Living at 30" | <[Slides](https://docs.google.com/presentation/d/1N7heq46MWIX6_4IldY8jGw1cdMYSWCjIQE4JjOrOJWU/edit?usp=sharing)> | [Watch Here!](https://vimeo.com/747908563/4f7ecd26b5)
 - On ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social). Formerly streaming at <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a> with the 'Code School Q&A' crew, where we supported folx interested in software, code school students, and recent grads working to get into the tech industry.
 - Launchies podcast, Episode 041, posted Dec 15, 2021, "Googling and Self-Teaching – Attend Code School Q&A with Danielle Thompson" [Listen Here!](https://dev.to/newrelic/googling-and-self-teaching-attend-code-school-qa-with-danielle-thompson-3gce)
@@ -147,6 +150,8 @@ I am a Ruby/Rails-focused Software Engineer at an ed-tech company, [Open Up Reso
 
 ### 👯 Recent Conferences
 
+- Aug 10-13, 2023 (IRL) [DEFCON31](https://defcon.org/html/defcon-31/dc-31-index.html)
+- April 24-26, 2023 (IRL) [RailsConf](https://railsconf.org/)
 - Nov 29–Dec 1, 2022 (IRL) [RubyConf](https://rubyconf.org/)
 - Aug 30–Sep 1, 2022 (virtual) [ChickTech + ACT-W Virtual Conference](https://act-w.org/conference/)
 - Aug 11–14, 2022, (IRL) [DEFCON30](https://defcon.org/html/defcon-30/dc-30-index.html)
