@@ -10,7 +10,9 @@
 
 ### 📙 Overview
 
-I am a Ruby/Rails-focused Software Engineer at an ed-tech company, [Open Up Resources](https://www.openupresources.org/). Before taking my current developer role, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/), was a contract junior developer for [GiftRibbn](https://www.ribbn.io/), and graduated from a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Code School in Portland, OR. Since getting into tech, I have written several blogs, been on a guest several podcasts and tech Twitch streams, started & maintain a Wiki of resources for folks getting into tech (find that link in my LinkTree above), volunteered at RubyConf 2022, and served on RailsConf 2023 Program Committee. I continue to look for ways to engage in the Ruby/Rails and broader technical community while joyfully getting to do what I love - perpetual learning in my chosen field of software engineering.
+I am a mid-level, Ruby/Rails based Software Engineer at a non-profit in curriculum publishing, [Open Up Resources](https://www.openupresources.org/), where I have been for 3 years and counting. Before taking my current developer role, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/), was a contract junior developer for [GiftRibbn](https://www.ribbn.io/), and graduated from a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Code School in Portland, OR. 
+
+Since getting into tech, I have written several blogs, been on a guest several podcasts and tech Twitch streams, started & maintained a Wiki of resources for folks getting into tech (find that link in my LinkTree above), volunteered at RubyConf 2022, and served on RailsConf 2023 Program Committee. I continue to look for ways to engage in the Ruby/Rails and broader technical community while joyfully getting to do what I love for work - perpetual learning.
 
 </div>
 
@@ -75,6 +77,13 @@ I am a Ruby/Rails-focused Software Engineer at an ed-tech company, [Open Up Reso
 
 ## 📊 Work
 
+### Most Recently
+
+- Lead Engineer for EL Education's [Skills Block 2024](https://access.openupresources.org/curricula/el-skills-block-2024)
+  - Modeled and imported the entire complex curriculum from XML, PDF, and DOCX files shared from EL Education
+  - Managed product roadmap and initial design concepts, always keeping our end-user experience for K-2 teachers at top of mind
+  - Led teams improvements to start delivering engineering's projects on-time
+
 ### Previously Contracted Projects
 
 - Redesign of and feature additions to the non-profit [NSBE Pro-PDX's](https://www.nsbepropdx.org/) site.
@@ -119,6 +128,7 @@ I am a Ruby/Rails-focused Software Engineer at an ed-tech company, [Open Up Reso
 
 ### Volunteering
 
+- Arctica Igloo Assistant 2024, Arctica Volunteer 2023: volunteer position supporting the critical infrastructure of ice sales at Burning Man 
 - DEFCON 2023-present Inhuman Registration Volunteer: registration operations and support for Inhuman Registration (i.e. anyone not in the general public; includes 550+ DEFCON staff, as well as press, vendors, etc.)
 - **RailsConf 2023 Program Committee: curating the tracks and talks for the largest, longest running gathering of Rails developers in the world.**
 - Epicodus Mentor 2023-present: ongoing professional & technical mentorship via Lunch Talks for current students working to transition into tech
@@ -136,7 +146,7 @@ I am a Ruby/Rails-focused Software Engineer at an ed-tech company, [Open Up Reso
 
 ### 🎤 Speaking Engagements
 
-- March 8, 2023, 12:00PM - 1:00PM (PST): Epicodus Lunch Guest Speaker
+- Jan 31, 2024, 12:00PM - 1:00PM (PST): Epicodus Lunch Guest Speaker
 - March 8, 2023, 12:00PM - 1:00PM (PST): Epicodus Lunch Guest Speaker
 - April 26, 2023 1:30PM - 3:30PM (EST): MC for RailsConf Lightning Talks
 - Speaker at [ChickTech + ACT-W Virtual Conference](https://act-w.org/conference/), August 30 – September 1, 2022, "From Bartender to Software Engineer - How I Went from Slinging Drinks to Coding for a Living at 30" | <[Slides](https://docs.google.com/presentation/d/1N7heq46MWIX6_4IldY8jGw1cdMYSWCjIQE4JjOrOJWU/edit?usp=sharing)> | [Watch Here!](https://vimeo.com/747908563/4f7ecd26b5)
@@ -150,6 +160,7 @@ I am a Ruby/Rails-focused Software Engineer at an ed-tech company, [Open Up Reso
 
 ### 👯 Recent Conferences
 
+- Aug 8-11, 2024 (IRL) [DEFCON31](https://defcon.org/html/defcon-32/dc-32-index.html)
 - Aug 10-13, 2023 (IRL) [DEFCON31](https://defcon.org/html/defcon-31/dc-31-index.html)
 - April 24-26, 2023 (IRL) [RailsConf](https://railsconf.org/)
 - Nov 29–Dec 1, 2022 (IRL) [RubyConf](https://rubyconf.org/)
@@ -182,14 +193,14 @@ I am a Ruby/Rails-focused Software Engineer at an ed-tech company, [Open Up Reso
 - [Code Switch](https://www.npr.org/podcasts/510312/codeswitch) from NPR --> _not_ programming related, but rather, talks on race & culture
 - [The Rewatchables](https://www.theringer.com/the-rewatchables) --> 🎬? fun conversation about all sorts of rewatchable movies 🎬
 
-### 💡 Learning Platform Coding Stats
+<!-- **### 💡 Learning Platform Coding Stats
 
 |  💡 _Coding Stats_ 💡 	|   Site	|   Rank 	|   Points 	|   Technologies 	|
 |:-:	|:-:	|:-:	|:-:	|:-:	|
 |  1 	|  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/danitcodes)  |  <img src="https://www.codewars.com/users/danitcodes/badges/small" alt="Code Wars Stats" />	|   	| JavaScript 	|
 |  2 	|   [Edabit](https://edabit.com/user/NPPFh5vCtYrQREYaC)	  |  Level 4 	|  335XP 	|  JavaScript, Ruby, C# 	|
 |  3 	|   [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.io/profiles/danitcodes)	  |  	|  14rep 	|  Ruby, JavaScript 	|
-|  4 	|   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/danitcodes/)	  |  	|   	|  Ruby, JavaScript 	|
+|  4 	|   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/danitcodes/)	  |  	|   	|  Ruby, JavaScript 	| -->
 
 <br />
 
@@ -203,7 +214,6 @@ I am a Ruby/Rails-focused Software Engineer at an ed-tech company, [Open Up Reso
 ---
 
 ### 📫 Connect
-
 
 <a href="https://www.linkedin.com/in/danielle-thompson74"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="https://dev.to/danitcodes"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Danielle Thompson's DEV Community Profile" height="30" width="30"></a>
