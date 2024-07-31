@@ -80,9 +80,13 @@ Since getting into tech, I have written several blogs, been on a guest several p
 ### Most Recently
 
 - Lead Engineer for EL Education's [Skills Block 2024](https://access.openupresources.org/curricula/el-skills-block-2024)
-  - Modeled and imported the entire complex curriculum from XML, PDF, and DOCX files shared from EL Education
-  - Managed product roadmap and initial design concepts, always keeping our end-user experience for K-2 teachers at top of mind
+  - Modeled and imported a complex curriculum from XML with supporting PDF and DOCX files into HTML rich text
+  - Managed cross-team and cross-company collaboration and communication - internally between Academics, Product, and Engineering, and with our external education partner, EL Ed.
+  - Managed product roadmap, as well as task identification and prioritization
+  - Created initial design concepts, always keeping our end-user experience for K-2 teachers at top of mind
   - Led teams improvements to start delivering engineering's projects on-time
+
+<img width="1341" alt="Screenshot 2024-07-31 at 11 00 08 AM" src="https://github.com/user-attachments/assets/cfb04ed6-2cd1-48c2-8cd3-33a36d2e0397">
 
 ### Previously Contracted Projects
 
