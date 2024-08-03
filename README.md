@@ -10,7 +10,7 @@
 
 ### 📙 Overview
 
-I am a mid-level, Ruby/Rails based Software Engineer at a non-profit in curriculum publishing, [Open Up Resources](https://www.openupresources.org/), where I have been for 3 years and counting. Before taking my current developer role, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/), was a contract junior developer for [GiftRibbn](https://www.ribbn.io/), and graduated from a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Code School in Portland, OR. 
+I am a Ruby/Rails based Software Engineer at a non-profit in curriculum publishing, [Open Up Resources](https://www.openupresources.org/), where I have been for 3 years and counting. Before taking my current developer role, I completed a Software Development internship at the [NSBE Pro-PDX](https://www.nsbepropdx.org/), was a contract junior developer for [GiftRibbn](https://www.ribbn.io/), and graduated from a 6-month, full-time certificate program in Web & Mobile Development at [Epicodus](www.epicodus.com) Code School in Portland, OR. 
 
 Since getting into tech, I have written several blogs, been on a guest several podcasts and tech Twitch streams, started & maintained a Wiki of resources for folks getting into tech (find that link in my LinkTree above), volunteered at RubyConf 2022, and served on RailsConf 2023 Program Committee. I continue to look for ways to engage in the Ruby/Rails and broader technical community while joyfully getting to do what I love for work - perpetual learning.
 
