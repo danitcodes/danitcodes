@@ -153,7 +153,7 @@ Since getting into tech, I have written several blogs, been on a guest several p
 
 - Jan 31, 2024, 12:00PM - 1:00PM (PST): Epicodus Lunch Guest Speaker
 - March 8, 2023, 12:00PM - 1:00PM (PST): Epicodus Lunch Guest Speaker
-- April 26, 2023 1:30PM - 3:30PM (EST): MC for RailsConf Lightning Talks
+- April 26, 2023 1:30PM - 3:30PM (EST): MC for [RailsConf Lightning Talks](https://www.youtube.com/watch?v=k55B4ydueGE)
 - Speaker at [ChickTech + ACT-W Virtual Conference](https://act-w.org/conference/), August 30 – September 1, 2022, "From Bartender to Software Engineer - How I Went from Slinging Drinks to Coding for a Living at 30" | <[Slides](https://docs.google.com/presentation/d/1N7heq46MWIX6_4IldY8jGw1cdMYSWCjIQE4JjOrOJWU/edit?usp=sharing)> | [Watch Here!](https://vimeo.com/747908563/4f7ecd26b5)
 - On ![Twitch Status](https://img.shields.io/twitch/status/danitcodes?style=social). Formerly streaming at <a href=https://www.twitch.tv/thejonanshow/ >The Jonan Show</a> with the 'Code School Q&A' crew, where we supported folx interested in software, code school students, and recent grads working to get into the tech industry.
 - Launchies podcast, Episode 041, posted Dec 15, 2021, "Googling and Self-Teaching – Attend Code School Q&A with Danielle Thompson" [Listen Here!](https://dev.to/newrelic/googling-and-self-teaching-attend-code-school-qa-with-danielle-thompson-3gce)
